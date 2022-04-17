@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΤΟΜΕΑ ΥΓΕΙΑΣ ΓΙΑ ΚΡΙΣΕΙΣ 1ΗΣ ΥΠΕ ΑΤΤΙΚΗΣ 27122011](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-cf84cebfcebcceb5ceb1-cf85ceb3ceb5ceb9ceb1cf83-ceb3ceb9ceb1-cebacf81ceb9cf83ceb5ceb9cf83-1.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΤΟΜΕΑ ΥΓΕΙΑΣ ΓΙΑ ΚΡΙΣΕΙΣ 1ΗΣ ΥΠΕ ΑΤΤΙΚΗΣ 27122011](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-cf84cebfcebcceb5ceb1-cf85ceb3ceb5ceb9ceb1cf83-ceb3ceb9ceb1-cebacf81ceb9cf83ceb5ceb9cf83-1.doc)

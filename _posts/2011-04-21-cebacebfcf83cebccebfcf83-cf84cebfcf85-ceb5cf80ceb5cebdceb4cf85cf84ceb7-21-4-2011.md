@@ -10,4 +10,4 @@ categories:
     - Άρθρα
 ---
 
-[ΚΟΣΜΟΣ ΤΟΥ ΕΠΕΝΔΥΤΗ 21042011](http://localhost:8000/wp-content/uploads/2012/04/cebacebfcf83cebccebfcf83-cf84cebfcf85-ceb5cf80ceb5cebdceb4cf85cf84ceb7-21042011.pdf)
+[ΚΟΣΜΟΣ ΤΟΥ ΕΠΕΝΔΥΤΗ 21042011](/wp-content/uploads/2012/04/cebacebfcf83cebccebfcf83-cf84cebfcf85-ceb5cf80ceb5cebdceb4cf85cf84ceb7-21042011.pdf)

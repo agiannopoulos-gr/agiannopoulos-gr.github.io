@@ -10,4 +10,4 @@ categories:
     - Συνεντεύξεις
 ---
 
-[Συνέντευξη στην Hellenic Mail 25-5-2011](http://localhost:8000/wp-content/uploads/2012/04/cf83cf85cebdceadcebdcf84ceb5cf85cebeceb7-cf83cf84ceb7cebd-hellenic-mail-25-5-2011.doc)
+[Συνέντευξη στην Hellenic Mail 25-5-2011](/wp-content/uploads/2012/04/cf83cf85cebdceadcebdcf84ceb5cf85cebeceb7-cf83cf84ceb7cebd-hellenic-mail-25-5-2011.doc)

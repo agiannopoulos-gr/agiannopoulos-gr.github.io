@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΤΟΜΕΑ ΥΓΕΙΑΣ 14012011](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-cf84cebfcebcceb5ceb1-cf85ceb3ceb5ceb9ceb1cf83-14012011.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΤΟΜΕΑ ΥΓΕΙΑΣ 14012011](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-cf84cebfcebcceb5ceb1-cf85ceb3ceb5ceb9ceb1cf83-14012011.doc)

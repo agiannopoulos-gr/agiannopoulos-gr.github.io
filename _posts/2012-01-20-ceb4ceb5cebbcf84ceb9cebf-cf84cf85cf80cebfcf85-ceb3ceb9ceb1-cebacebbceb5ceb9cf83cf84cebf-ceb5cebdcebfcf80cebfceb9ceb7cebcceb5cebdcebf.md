@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΚΛΕΙΣΤΟ ΕΝΟΠΟΙΗΜΕΝΟ ΝΟΣΗΛΙΟ 20012012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebacebbceb5ceb9cf83cf84cebf-ceb5cebdcebfcf80cebfceb9ceb7cebcceb5cebdcebf.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΚΛΕΙΣΤΟ ΕΝΟΠΟΙΗΜΕΝΟ ΝΟΣΗΛΙΟ 20012012](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebacebbceb5ceb9cf83cf84cebf-ceb5cebdcebfcf80cebfceb9ceb7cebcceb5cebdcebf.doc)

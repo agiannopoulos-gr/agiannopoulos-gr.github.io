@@ -10,4 +10,4 @@ categories:
     - Άρθρα
 ---
 
-[ΠΡΟΣ ΚΑΘΗΜΕΡΙΝΗ ΓΙΑ ΕΟΦ 03102011](http://localhost:8000/wp-content/uploads/2012/04/cf80cf81cebfcf83-cebaceb1ceb8ceb7cebcceb5cf81ceb9cebdceb7-ceb3ceb9ceb1-ceb5cebfcf86-03102011.doc)
+[ΠΡΟΣ ΚΑΘΗΜΕΡΙΝΗ ΓΙΑ ΕΟΦ 03102011](/wp-content/uploads/2012/04/cf80cf81cebfcf83-cebaceb1ceb8ceb7cebcceb5cf81ceb9cebdceb7-ceb3ceb9ceb1-ceb5cebfcf86-03102011.doc)

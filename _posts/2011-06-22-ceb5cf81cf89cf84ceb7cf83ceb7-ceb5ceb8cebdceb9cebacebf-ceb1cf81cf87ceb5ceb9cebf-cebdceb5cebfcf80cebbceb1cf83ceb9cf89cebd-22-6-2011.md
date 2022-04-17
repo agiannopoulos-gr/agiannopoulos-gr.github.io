@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-Θέμα: [Δημιουργία Εθνικού Αρχείου Νεοπλασιών](http://localhost:8000/wp-content/uploads/2012/04/220611-ceb5cf81cf89cf84ceb7cf83ceb7-ceb5ceb8cebdceb9cebacebf-ceb1cf81cf87ceb5ceb9cebf-cebdceb5cebfcf80cebbceb1cf83ceb9cf89cebd-2.doc)
+Θέμα: [Δημιουργία Εθνικού Αρχείου Νεοπλασιών](/wp-content/uploads/2012/04/220611-ceb5cf81cf89cf84ceb7cf83ceb7-ceb5ceb8cebdceb9cebacebf-ceb1cf81cf87ceb5ceb9cebf-cebdceb5cebfcf80cebbceb1cf83ceb9cf89cebd-2.doc)

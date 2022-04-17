@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΔΙΑΦΘΟΡΑ ΣΤΑ ΝΟΣΟΚΟΜΕΙΑ 06062011](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-ceb4ceb9ceb1cf86ceb8cebfcf81ceb1-cf83cf84ceb1-cebdcebfcf83cebfcebacebfcebc1.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΔΙΑΦΘΟΡΑ ΣΤΑ ΝΟΣΟΚΟΜΕΙΑ 06062011](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-ceb4ceb9ceb1cf86ceb8cebfcf81ceb1-cf83cf84ceb1-cebdcebfcf83cebfcebacebfcebc1.doc)

@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-[Διοικητική παραλαβή δημοσίων κτιρίων και συνέπειες από κατασκευαστικές ατέλειες ](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb9cebfceb9cebaceb7cf84ceb9cebaceae-cf80ceb1cf81ceb1cebbceb1ceb2ceae-ceb4ceb7cebccebfcf83ceafcf89cebd-cebacf84ceb9cf81ceafcf89.doc)
+[Διοικητική παραλαβή δημοσίων κτιρίων και συνέπειες από κατασκευαστικές ατέλειες ](/wp-content/uploads/2012/04/ceb4ceb9cebfceb9cebaceb7cf84ceb9cebaceae-cf80ceb1cf81ceb1cebbceb1ceb2ceae-ceb4ceb7cebccebfcf83ceafcf89cebd-cebacf84ceb9cf81ceafcf89.doc)

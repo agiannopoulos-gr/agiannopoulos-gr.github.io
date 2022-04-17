@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-[ΠΡΟΣ ΥΓΕΙΑΣ ΓΙΑ ΟΓΚΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ ΛΑΜΙΑΣ](http://localhost:8000/wp-content/uploads/2012/04/cf80cf81cebfcf83-cf85ceb3ceb5ceb9ceb1cf83-ceb3ceb9ceb1-cebfceb3cebacebfcebbcebfceb3ceb9cebaceb7-cebacebbceb9cebdceb9cebaceb7-cebbceb1.doc)
+[ΠΡΟΣ ΥΓΕΙΑΣ ΓΙΑ ΟΓΚΟΛΟΓΙΚΗ ΚΛΙΝΙΚΗ ΛΑΜΙΑΣ](/wp-content/uploads/2012/04/cf80cf81cebfcf83-cf85ceb3ceb5ceb9ceb1cf83-ceb3ceb9ceb1-cebfceb3cebacebfcebbcebfceb3ceb9cebaceb7-cebacebbceb9cebdceb9cebaceb7-cebbceb1.doc)

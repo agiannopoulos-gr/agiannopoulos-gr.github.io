@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΤΑΜΕΙΟ ΝΑΥΤΙΚΩΝ 09042012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cf84ceb1cebcceb5ceb9cebf-cebdceb1cf85cf84ceb9cebacf89cebd-09042012.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΤΑΜΕΙΟ ΝΑΥΤΙΚΩΝ 09042012](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cf84ceb1cebcceb5ceb9cebf-cebdceb1cf85cf84ceb9cebacf89cebd-09042012.doc)

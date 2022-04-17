@@ -10,4 +10,4 @@ categories:
     - Συνεντεύξεις
 ---
 
-[![](http://localhost:8000/wp-content/uploads/2012/04/20-2-2011-h1n1.jpg?w=212 "20-2-2011 H1N1")](http://localhost:8000/wp-content/uploads/2012/04/20-2-2011-h1n1.jpg)
+[![](/wp-content/uploads/2012/04/20-2-2011-h1n1.jpg?w=212 "20-2-2011 H1N1")](/wp-content/uploads/2012/04/20-2-2011-h1n1.jpg)

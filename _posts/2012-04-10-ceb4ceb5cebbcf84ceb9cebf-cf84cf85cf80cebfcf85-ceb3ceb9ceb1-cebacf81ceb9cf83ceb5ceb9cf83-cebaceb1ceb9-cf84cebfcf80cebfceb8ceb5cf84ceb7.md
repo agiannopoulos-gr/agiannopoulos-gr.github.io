@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΚΡΙΣΕΙΣ ΚΑΙ ΤΟΠΟΘΕΤΗΣΕΙΣ ΔΙΕΥΘΥΝΤΩΝ ΝΟΣΟΚΟΜΕΙΩΝ 10042012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebacf81ceb9cf83ceb5ceb9cf83-cebaceb1ceb9-cf84cebfcf80cebfceb8ceb5cf84ceb7.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΚΡΙΣΕΙΣ ΚΑΙ ΤΟΠΟΘΕΤΗΣΕΙΣ ΔΙΕΥΘΥΝΤΩΝ ΝΟΣΟΚΟΜΕΙΩΝ 10042012](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebacf81ceb9cf83ceb5ceb9cf83-cebaceb1ceb9-cf84cebfcf80cebfceb8ceb5cf84ceb7.doc)

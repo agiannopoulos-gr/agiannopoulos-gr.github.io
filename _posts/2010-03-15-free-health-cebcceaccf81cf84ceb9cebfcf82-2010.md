@@ -10,4 +10,4 @@ categories:
     - Άρθρα
 ---
 
-[![](http://localhost:8000/wp-content/uploads/2012/04/free-health-032010.jpg?w=212 "Free Health 032010")](http://localhost:8000/wp-content/uploads/2012/04/free-health-032010.jpg)
+[![](/wp-content/uploads/2012/04/free-health-032010.jpg?w=212 "Free Health 032010")](/wp-content/uploads/2012/04/free-health-032010.jpg)

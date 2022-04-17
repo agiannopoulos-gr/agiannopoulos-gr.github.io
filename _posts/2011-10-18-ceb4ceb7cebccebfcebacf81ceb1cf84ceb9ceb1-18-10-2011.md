@@ -10,4 +10,4 @@ categories:
     - 'Αναφορές στον Τύπο'
 ---
 
-[ΔΗΜΟΚΡΑΤΙΑ 18102011](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb7cebccebfcebacf81ceb1cf84ceb9ceb1-18102011.pdf)
+[ΔΗΜΟΚΡΑΤΙΑ 18102011](/wp-content/uploads/2012/04/ceb4ceb7cebccebfcebacf81ceb1cf84ceb9ceb1-18102011.pdf)

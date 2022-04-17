@@ -10,6 +10,6 @@ categories:
     - Συνεντεύξεις
 ---
 
-[VORIA.gr ΣΥΝΕΝΤΕΥΞΗ 08022011](http://localhost:8000/wp-content/uploads/2012/04/voria-gr-cf83cf85cebdceb5cebdcf84ceb5cf85cebeceb7-08022011.docx)
+[VORIA.gr ΣΥΝΕΝΤΕΥΞΗ 08022011](/wp-content/uploads/2012/04/voria-gr-cf83cf85cebdceb5cebdcf84ceb5cf85cebeceb7-08022011.docx)
 
-[VORIA.gr ΘΑΝΑΣΗΣ ΓΙΑΝΝΟΠΟΥΛΟΣ](http://localhost:8000/wp-content/uploads/2012/04/voria-gr-ceb8ceb1cebdceb1cf83ceb7cf83-ceb3ceb9ceb1cebdcebdcebfcf80cebfcf85cebbcebfcf83.doc)
+[VORIA.gr ΘΑΝΑΣΗΣ ΓΙΑΝΝΟΠΟΥΛΟΣ](/wp-content/uploads/2012/04/voria-gr-ceb8ceb1cebdceb1cf83ceb7cf83-ceb3ceb9ceb1cebdcebdcebfcf80cebfcf85cebbcebfcf83.doc)

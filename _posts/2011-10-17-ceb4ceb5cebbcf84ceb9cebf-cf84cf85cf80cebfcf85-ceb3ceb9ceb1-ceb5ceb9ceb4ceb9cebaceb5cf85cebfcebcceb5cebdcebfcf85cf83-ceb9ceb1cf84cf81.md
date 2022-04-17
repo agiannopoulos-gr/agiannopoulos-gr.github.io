@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΕΙΔΙΚΕΥΟΜΕΝΟΥΣ ΙΑΤΡΟΥΣ 17102011](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-ceb5ceb9ceb4ceb9cebaceb5cf85cebfcebcceb5cebdcebfcf85cf83-ceb9ceb1cf84cf81.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΕΙΔΙΚΕΥΟΜΕΝΟΥΣ ΙΑΤΡΟΥΣ 17102011](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-ceb5ceb9ceb4ceb9cebaceb5cf85cebfcebcceb5cebdcebfcf85cf83-ceb9ceb1cf84cf81.doc)

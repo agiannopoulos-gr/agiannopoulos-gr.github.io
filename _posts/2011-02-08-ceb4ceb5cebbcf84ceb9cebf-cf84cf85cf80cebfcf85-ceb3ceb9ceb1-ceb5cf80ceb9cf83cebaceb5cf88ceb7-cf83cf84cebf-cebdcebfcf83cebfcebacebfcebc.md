@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΕΠΙΣΚΕΨΗ ΣΤΟ ΝΟΣΟΚΟΜΕΙΟ ΠΥΡΓΟΥ 08022012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-ceb5cf80ceb9cf83cebaceb5cf88ceb7-cf83cf84cebf-cebdcebfcf83cebfcebacebfcebc.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΕΠΙΣΚΕΨΗ ΣΤΟ ΝΟΣΟΚΟΜΕΙΟ ΠΥΡΓΟΥ 08022012](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-ceb5cf80ceb9cf83cebaceb5cf88ceb7-cf83cf84cebf-cebdcebfcf83cebfcebacebfcebc.doc)

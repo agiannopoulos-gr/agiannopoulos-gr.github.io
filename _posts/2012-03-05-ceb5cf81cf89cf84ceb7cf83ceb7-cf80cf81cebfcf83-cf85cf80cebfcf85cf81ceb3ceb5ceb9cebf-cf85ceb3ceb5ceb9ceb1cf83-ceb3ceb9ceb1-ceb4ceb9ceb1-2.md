@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-[ΕΡΩΤΗΣΗ ΠΡΟΣ ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΓΙΑ ΔΙΑΦΗΜΙΣΤΙΚΗ ΚΑΜΠΑΝΙΑ ΓΕΝΟΣΗΜΩΝ ΦΑΡΜΑΚΩΝ](http://localhost:8000/wp-content/uploads/2012/04/cf80cf81cebfcf83-cf85ceb3ceb5ceb9ceb1cf83-ceb3ceb9ceb1-ceb4ceb9ceb1cf86ceb7cebcceb9cf83cf84ceb9cebaceb7-cebaceb1cebccf80ceb1cebdceb9.doc)
+[ΕΡΩΤΗΣΗ ΠΡΟΣ ΥΠΟΥΡΓΕΙΟ ΥΓΕΙΑΣ ΓΙΑ ΔΙΑΦΗΜΙΣΤΙΚΗ ΚΑΜΠΑΝΙΑ ΓΕΝΟΣΗΜΩΝ ΦΑΡΜΑΚΩΝ](/wp-content/uploads/2012/04/cf80cf81cebfcf83-cf85ceb3ceb5ceb9ceb1cf83-ceb3ceb9ceb1-ceb4ceb9ceb1cf86ceb7cebcceb9cf83cf84ceb9cebaceb7-cebaceb1cebccf80ceb1cebdceb9.doc)

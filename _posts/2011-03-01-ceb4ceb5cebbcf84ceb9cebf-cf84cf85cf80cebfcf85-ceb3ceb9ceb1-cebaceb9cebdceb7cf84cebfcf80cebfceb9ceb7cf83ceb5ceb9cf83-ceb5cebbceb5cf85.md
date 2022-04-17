@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΚΙΝΗΤΟΠΟΙΗΣΕΙΣ ΕΛΕΥΘΕΡΟΕΠΑΓΓΕΛΜΑΤΙΩΝ ΙΑΤΡΩΝ 01032011](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebaceb9cebdceb7cf84cebfcf80cebfceb9ceb7cf83ceb5ceb9cf83-ceb5cebbceb5cf852.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΚΙΝΗΤΟΠΟΙΗΣΕΙΣ ΕΛΕΥΘΕΡΟΕΠΑΓΓΕΛΜΑΤΙΩΝ ΙΑΤΡΩΝ 01032011](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebaceb9cebdceb7cf84cebfcf80cebfceb9ceb7cf83ceb5ceb9cf83-ceb5cebbceb5cf852.doc)

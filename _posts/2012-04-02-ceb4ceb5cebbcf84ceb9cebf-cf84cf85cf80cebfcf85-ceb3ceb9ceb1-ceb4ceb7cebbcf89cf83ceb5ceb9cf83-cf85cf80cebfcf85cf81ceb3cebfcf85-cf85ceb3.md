@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΔΗΛΩΣΕΙΣ ΥΠΟΥΡΓΟΥ ΥΓΕΙΑΣ ΓΙΑ ΒΟΥΛΕΥΤΕΣ 02042012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-ceb4ceb7cebbcf89cf83ceb5ceb9cf83-cf85cf80cebfcf85cf81ceb3cebfcf85-cf85ceb3.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΔΗΛΩΣΕΙΣ ΥΠΟΥΡΓΟΥ ΥΓΕΙΑΣ ΓΙΑ ΒΟΥΛΕΥΤΕΣ 02042012](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-ceb4ceb7cebbcf89cf83ceb5ceb9cf83-cf85cf80cebfcf85cf81ceb3cebfcf85-cf85ceb3.doc)

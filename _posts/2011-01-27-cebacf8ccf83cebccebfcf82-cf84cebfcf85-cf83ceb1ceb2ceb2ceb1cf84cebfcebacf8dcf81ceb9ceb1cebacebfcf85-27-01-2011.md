@@ -10,4 +10,4 @@ categories:
     - Συνεντεύξεις
 ---
 
-[Κόσμος του Σαββατοκύριακου 27012011](http://localhost:8000/wp-content/uploads/2012/04/cebacf8ccf83cebccebfcf82-cf84cebfcf85-cf83ceb1ceb2ceb2ceb1cf84cebfcebacf8dcf81ceb9ceb1cebacebfcf85-27012011.doc)
+[Κόσμος του Σαββατοκύριακου 27012011](/wp-content/uploads/2012/04/cebacf8ccf83cebccebfcf82-cf84cebfcf85-cf83ceb1ceb2ceb2ceb1cf84cebfcebacf8dcf81ceb9ceb1cebacebfcf85-27012011.doc)

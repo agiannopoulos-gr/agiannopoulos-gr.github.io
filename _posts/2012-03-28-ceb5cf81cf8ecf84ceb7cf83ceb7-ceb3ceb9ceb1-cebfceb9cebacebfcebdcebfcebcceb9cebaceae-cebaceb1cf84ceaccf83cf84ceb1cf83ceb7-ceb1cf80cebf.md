@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-Θέμα: [«Οικονομική κατάσταση αποθεματικών των δημοσίων νοσοκομείων ΝΠΔΔ μετά το λεγόμενο κούρεμα ομολόγων»](http://localhost:8000/wp-content/uploads/2012/04/cebfceb9cebacebfcebdcebfcebcceb9cebaceae-cebaceb1cf84ceaccf83cf84ceb1cf83ceb7-ceb1cf80cebfceb8ceb5cebcceb1cf84ceb9cebacf8ecebd-cf84.doc)
+Θέμα: [«Οικονομική κατάσταση αποθεματικών των δημοσίων νοσοκομείων ΝΠΔΔ μετά το λεγόμενο κούρεμα ομολόγων»](/wp-content/uploads/2012/04/cebfceb9cebacebfcebdcebfcebcceb9cebaceae-cebaceb1cf84ceaccf83cf84ceb1cf83ceb7-ceb1cf80cebfceb8ceb5cebcceb1cf84ceb9cebacf8ecebd-cf84.doc)

@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΩΡΑΡΙΟ ΦΑΡΜΑΚΕΙΩΝ 23012012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cf89cf81ceb1cf81ceb9cebf-cf86ceb1cf81cebcceb1cebaceb5ceb9cf89cebd-23012012.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΩΡΑΡΙΟ ΦΑΡΜΑΚΕΙΩΝ 23012012](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cf89cf81ceb1cf81ceb9cebf-cf86ceb1cf81cebcceb1cebaceb5ceb9cf89cebd-23012012.doc)

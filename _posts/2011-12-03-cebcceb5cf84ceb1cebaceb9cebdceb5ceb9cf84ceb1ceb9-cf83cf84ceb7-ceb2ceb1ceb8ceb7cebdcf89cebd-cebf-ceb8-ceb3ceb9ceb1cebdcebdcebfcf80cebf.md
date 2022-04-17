@@ -10,4 +10,4 @@ categories:
     - 'Αναφορές στον Τύπο'
 ---
 
-[![](http://localhost:8000/wp-content/uploads/2012/04/cebcceb5cf84ceb1cebaceb9cebdceb5ceb9cf84ceb1ceb9-cf83cf84ceb7-ceb2ceb1ceb8ceb7cebdcf89cebd-cebf-ceb8-ceb3ceb9ceb1cebdcebdcebfcf80cebf.jpg?w=300 "ΜΕΤΑΚΙΝΕΙΤΑΙ ΣΤΗ Β'ΑΘΗΝΩΝ Ο Θ.ΓΙΑΝΝΟΠΟΥΛΟΣ - 03122011")](http://localhost:8000/wp-content/uploads/2012/04/cebcceb5cf84ceb1cebaceb9cebdceb5ceb9cf84ceb1ceb9-cf83cf84ceb7-ceb2ceb1ceb8ceb7cebdcf89cebd-cebf-ceb8-ceb3ceb9ceb1cebdcebdcebfcf80cebf.jpg)
+[![](/wp-content/uploads/2012/04/cebcceb5cf84ceb1cebaceb9cebdceb5ceb9cf84ceb1ceb9-cf83cf84ceb7-ceb2ceb1ceb8ceb7cebdcf89cebd-cebf-ceb8-ceb3ceb9ceb1cebdcebdcebfcf80cebf.jpg?w=300 "ΜΕΤΑΚΙΝΕΙΤΑΙ ΣΤΗ Β'ΑΘΗΝΩΝ Ο Θ.ΓΙΑΝΝΟΠΟΥΛΟΣ - 03122011")](/wp-content/uploads/2012/04/cebcceb5cf84ceb1cebaceb9cebdceb5ceb9cf84ceb1ceb9-cf83cf84ceb7-ceb2ceb1ceb8ceb7cebdcf89cebd-cebf-ceb8-ceb3ceb9ceb1cebdcebdcebfcf80cebf.jpg)

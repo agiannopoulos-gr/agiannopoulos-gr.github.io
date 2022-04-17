@@ -10,4 +10,4 @@ categories:
     - 'Αναφορές στον Τύπο'
 ---
 
-[ΔΗΜΟΣΙΕΥΜΑ ΚΑΘΗΜΕΡΙΝΗΣ ΜΕ ΔΗΛΩΣΗ ΓΙΑΝΝΟΠΟΥΛΟΥ 05062011](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb7cebccebfcf83ceb9ceb5cf85cebcceb1-cebaceb1ceb8ceb7cebcceb5cf81ceb9cebdceb7cf83-cebcceb5-ceb4ceb7cebbcf89cf83ceb7-ceb3ceb9ceb1.docx)
+[ΔΗΜΟΣΙΕΥΜΑ ΚΑΘΗΜΕΡΙΝΗΣ ΜΕ ΔΗΛΩΣΗ ΓΙΑΝΝΟΠΟΥΛΟΥ 05062011](/wp-content/uploads/2012/04/ceb4ceb7cebccebfcf83ceb9ceb5cf85cebcceb1-cebaceb1ceb8ceb7cebcceb5cf81ceb9cebdceb7cf83-cebcceb5-ceb4ceb7cebbcf89cf83ceb7-ceb3ceb9ceb1.docx)

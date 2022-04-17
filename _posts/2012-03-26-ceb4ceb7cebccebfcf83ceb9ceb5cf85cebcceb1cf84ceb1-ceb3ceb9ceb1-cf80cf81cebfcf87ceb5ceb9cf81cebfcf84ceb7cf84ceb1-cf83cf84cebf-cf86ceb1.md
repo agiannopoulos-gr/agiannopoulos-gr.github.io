@@ -10,4 +10,4 @@ categories:
     - 'Αναφορές στον Τύπο'
 ---
 
-[ΔΗΜΟΣΙΕΥΜΑΤΑ ΓΙΑ ΠΡΟΧΕΙΡΟΤΗΤΑ ΣΤΟ ΦΑΡΜΑΚΕΙΟ ΤΟΥ ΕΟΠΥΥ 26032012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb7cebccebfcf83ceb9ceb5cf85cebcceb1cf84ceb1-ceb3ceb9ceb1-cf80cf81cebfcf87ceb5ceb9cf81cebfcf84ceb7cf84ceb1-cf83cf84cebf-cf86ceb1.docx)
+[ΔΗΜΟΣΙΕΥΜΑΤΑ ΓΙΑ ΠΡΟΧΕΙΡΟΤΗΤΑ ΣΤΟ ΦΑΡΜΑΚΕΙΟ ΤΟΥ ΕΟΠΥΥ 26032012](/wp-content/uploads/2012/04/ceb4ceb7cebccebfcf83ceb9ceb5cf85cebcceb1cf84ceb1-ceb3ceb9ceb1-cf80cf81cebfcf87ceb5ceb9cf81cebfcf84ceb7cf84ceb1-cf83cf84cebf-cf86ceb1.docx)

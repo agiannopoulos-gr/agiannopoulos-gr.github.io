@@ -10,4 +10,4 @@ categories:
     - Άρθρα
 ---
 
-[STAT BANK ΦΑΡΜΑΚΟ 18032011](http://localhost:8000/wp-content/uploads/2012/04/stat-bank-cf86ceb1cf81cebcceb1cebacebf-18032011.doc)
+[STAT BANK ΦΑΡΜΑΚΟ 18032011](/wp-content/uploads/2012/04/stat-bank-cf86ceb1cf81cebcceb1cebacebf-18032011.doc)

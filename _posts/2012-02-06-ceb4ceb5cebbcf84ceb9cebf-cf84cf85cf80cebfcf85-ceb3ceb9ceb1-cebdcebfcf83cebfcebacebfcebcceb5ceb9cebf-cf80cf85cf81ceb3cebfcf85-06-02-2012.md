@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΝΟΣΟΚΟΜΕΙΟ ΠΥΡΓΟΥ](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebdcebfcf83cebfcebacebfcebcceb5ceb9cebf-cf80cf85cf81ceb3cebfcf85-06022012.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΝΟΣΟΚΟΜΕΙΟ ΠΥΡΓΟΥ](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebdcebfcf83cebfcebacebfcebcceb5ceb9cebf-cf80cf85cf81ceb3cebfcf85-06022012.doc)

@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-[Κρούσματα επιδημίας γρίπης](http://localhost:8000/wp-content/uploads/2012/04/cebacf81cebfcf8dcf83cebcceb1cf84ceb1-ceb5cf80ceb9ceb4ceb7cebcceafceb1cf82-ceb3cf81ceafcf80ceb7cf82-08022012.doc)
+[Κρούσματα επιδημίας γρίπης](/wp-content/uploads/2012/04/cebacf81cebfcf8dcf83cebcceb1cf84ceb1-ceb5cf80ceb9ceb4ceb7cebcceafceb1cf82-ceb3cf81ceafcf80ceb7cf82-08022012.doc)

@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΦΑΡΜΑΚΑ ΓΕΝΟΣΗΜΑ 15022012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cf86ceb1cf81cebcceb1cebaceb1-ceb3ceb5cebdcebfcf83ceb7cebcceb1-15022012.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΦΑΡΜΑΚΑ ΓΕΝΟΣΗΜΑ 15022012](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cf86ceb1cf81cebcceb1cebaceb1-ceb3ceb5cebdcebfcf83ceb7cebcceb1-15022012.doc)

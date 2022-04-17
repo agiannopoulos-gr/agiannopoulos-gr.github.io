@@ -10,4 +10,4 @@ categories:
     - Άρθρα
 ---
 
-[ΠΡΟΣ ΚΑΘΗΜΕΡΙΝΗ ΓΙΑ ΦΑΡΜΑΚΑ 19072011](http://localhost:8000/wp-content/uploads/2012/04/cf80cf81cebfcf83-cebaceb1ceb8ceb7cebcceb5cf81ceb9cebdceb7-ceb3ceb9ceb1-cf86ceb1cf81cebcceb1cebaceb1-19072011.doc)
+[ΠΡΟΣ ΚΑΘΗΜΕΡΙΝΗ ΓΙΑ ΦΑΡΜΑΚΑ 19072011](/wp-content/uploads/2012/04/cf80cf81cebfcf83-cebaceb1ceb8ceb7cebcceb5cf81ceb9cebdceb7-ceb3ceb9ceb1-cf86ceb1cf81cebcceb1cebaceb1-19072011.doc)

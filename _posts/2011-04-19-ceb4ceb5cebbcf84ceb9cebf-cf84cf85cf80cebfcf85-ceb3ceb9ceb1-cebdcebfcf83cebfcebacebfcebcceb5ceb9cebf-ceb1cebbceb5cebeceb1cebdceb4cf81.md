@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΝΟΣΟΚΟΜΕΙΟ ΑΛΕΞΑΝΔΡΑ 19042011](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebdcebfcf83cebfcebacebfcebcceb5ceb9cebf-ceb1cebbceb5cebeceb1cebdceb4cf81.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΝΟΣΟΚΟΜΕΙΟ ΑΛΕΞΑΝΔΡΑ 19042011](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebdcebfcf83cebfcebacebfcebcceb5ceb9cebf-ceb1cebbceb5cebeceb1cebdceb4cf81.doc)

@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-[ΠΡΟΣ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ ΓΙΑ Εστίες ρύπανσης και συνάθροισης αστέγων σε εγκαταλειμμένα κτίρια των Αθηνών](http://localhost:8000/wp-content/uploads/2012/04/cf80cf81cebfcf83-cf80cf81cebfcf83cf84ceb1cf83ceb9ceb1cf83-cf84cebfcf85-cf80cebfcebbceb9cf84ceb7-ceb3ceb9ceb1-ceb5cf83cf84ceafceb5cf82.doc)
+[ΠΡΟΣ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ ΓΙΑ Εστίες ρύπανσης και συνάθροισης αστέγων σε εγκαταλειμμένα κτίρια των Αθηνών](/wp-content/uploads/2012/04/cf80cf81cebfcf83-cf80cf81cebfcf83cf84ceb1cf83ceb9ceb1cf83-cf84cebfcf85-cf80cebfcebbceb9cf84ceb7-ceb3ceb9ceb1-ceb5cf83cf84ceafceb5cf82.doc)

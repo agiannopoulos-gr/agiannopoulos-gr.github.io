@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-[ΕΡΩΤΗΣΗ ΣΚΑΝΔΑΛΟ ΔΩΡΟΔΟΚΙΩΝ ΕΛΛΗΝΩΝ ΙΑΤΡΩΝ ΑΠΟ ΑΜΕΡΙΚΑΝΙΚΗ ΕΤΑΙΡΙΑ](http://localhost:8000/wp-content/uploads/2012/04/240212-ceb5cf81cf89cf84ceb7cf83ceb7-cf83cebaceb1cebdceb4ceb1cebbcebf-ceb4cf89cf81cebfceb4cebfcebaceb9cf89cebd-ceb5cebbcebbceb7cebdcf89.doc)
+[ΕΡΩΤΗΣΗ ΣΚΑΝΔΑΛΟ ΔΩΡΟΔΟΚΙΩΝ ΕΛΛΗΝΩΝ ΙΑΤΡΩΝ ΑΠΟ ΑΜΕΡΙΚΑΝΙΚΗ ΕΤΑΙΡΙΑ](/wp-content/uploads/2012/04/240212-ceb5cf81cf89cf84ceb7cf83ceb7-cf83cebaceb1cebdceb4ceb1cebbcebf-ceb4cf89cf81cebfceb4cebfcebaceb9cf89cebd-ceb5cebbcebbceb7cebdcf89.doc)

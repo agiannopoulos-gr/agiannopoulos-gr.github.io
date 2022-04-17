@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-Θέμα: [ΦΑΡΜΑΚΕΙΟ ΕΟΠΥΥ](http://localhost:8000/wp-content/uploads/2012/04/cf86ceb1cf81cebcceb1cebaceb5ceb9cebf-ceb5cebfcf80cf85cf85-23032012.doc)
+Θέμα: [ΦΑΡΜΑΚΕΙΟ ΕΟΠΥΥ](/wp-content/uploads/2012/04/cf86ceb1cf81cebcceb1cebaceb5ceb9cebf-ceb5cebfcf80cf85cf85-23032012.doc)

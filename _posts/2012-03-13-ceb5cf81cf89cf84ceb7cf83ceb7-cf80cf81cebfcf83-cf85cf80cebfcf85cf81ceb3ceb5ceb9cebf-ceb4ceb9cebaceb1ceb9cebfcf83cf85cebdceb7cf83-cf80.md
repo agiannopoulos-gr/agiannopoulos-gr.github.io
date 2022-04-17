@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-[ΕΡΩΤΗΣΗ ΠΡΟΣ ΥΠΟΥΡΓΕΙΑ ΔΙΚΑΙΟΣΥΝΗΣ, ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ ΚΑΙ ΠΑΙΔΕΙΑΣ ΓΙΑ ΔΙΑΚΙΝΗΣΗ ΥΠΗΡΕΣΙΑΚΗΣ ΑΛΛΗΛΟΓΡΑΦΙΑΣ](http://localhost:8000/wp-content/uploads/2012/04/cf80cf81cebfcf83-ceb4ceb9cebaceb1ceb9cebfcf83cf85cebdceb7cf83-cf80cf81cebfcf83cf84ceb1cf83ceb9ceb1cf83-cf84cebfcf85-cf80cebfcebbceb9.doc)
+[ΕΡΩΤΗΣΗ ΠΡΟΣ ΥΠΟΥΡΓΕΙΑ ΔΙΚΑΙΟΣΥΝΗΣ, ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΠΟΛΙΤΗ ΚΑΙ ΠΑΙΔΕΙΑΣ ΓΙΑ ΔΙΑΚΙΝΗΣΗ ΥΠΗΡΕΣΙΑΚΗΣ ΑΛΛΗΛΟΓΡΑΦΙΑΣ](/wp-content/uploads/2012/04/cf80cf81cebfcf83-ceb4ceb9cebaceb1ceb9cebfcf83cf85cebdceb7cf83-cf80cf81cebfcf83cf84ceb1cf83ceb9ceb1cf83-cf84cebfcf85-cf80cebfcebbceb9.doc)

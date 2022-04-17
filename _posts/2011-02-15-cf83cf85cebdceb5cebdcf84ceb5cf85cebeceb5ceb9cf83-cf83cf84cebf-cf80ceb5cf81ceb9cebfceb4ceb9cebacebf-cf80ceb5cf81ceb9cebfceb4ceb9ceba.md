@@ -10,6 +10,6 @@ categories:
     - Συνεντεύξεις
 ---
 
-[ΠΕΡΙΟΔΙΚΟ ΠΟΛΗ ΚΑΙ ΠΟΛΙΤΙΚΗ 31012011](http://localhost:8000/wp-content/uploads/2012/04/cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-cf80cebfcebbceb7-cebaceb1ceb9-cf80cebfcebbceb9cf84ceb9cebaceb7-31012011.doc)
+[ΠΕΡΙΟΔΙΚΟ ΠΟΛΗ ΚΑΙ ΠΟΛΙΤΙΚΗ 31012011](/wp-content/uploads/2012/04/cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-cf80cebfcebbceb7-cebaceb1ceb9-cf80cebfcebbceb9cf84ceb9cebaceb7-31012011.doc)
 
-[ΠΕΡΙΟΔΙΚΟ ΠΟΛΗ &amp; ΠΟΛΙΤΙΚΗ 15022011](http://localhost:8000/wp-content/uploads/2012/04/cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-cf80cebfcebbceb7-cf80cebfcebbceb9cf84ceb9cebaceb7-15022011.doc)
+[ΠΕΡΙΟΔΙΚΟ ΠΟΛΗ &amp; ΠΟΛΙΤΙΚΗ 15022011](/wp-content/uploads/2012/04/cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-cf80cebfcebbceb7-cf80cebfcebbceb9cf84ceb9cebaceb7-15022011.doc)

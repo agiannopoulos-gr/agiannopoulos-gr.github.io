@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-Θέμα: [Κρούσματα φυματίωσης στις φυλακές Δομοκού](http://localhost:8000/wp-content/uploads/2012/04/cebacf81cebfcf8dcf83cebcceb1cf84ceb1-cf86cf85cebcceb1cf84ceafcf89cf83ceb7cf82-cf83cf84ceb9cf82-cf86cf85cebbceb1cebaceadcf82-ceb4cebf.doc)
+Θέμα: [Κρούσματα φυματίωσης στις φυλακές Δομοκού](/wp-content/uploads/2012/04/cebacf81cebfcf8dcf83cebcceb1cf84ceb1-cf86cf85cebcceb1cf84ceafcf89cf83ceb7cf82-cf83cf84ceb9cf82-cf86cf85cebbceb1cebaceadcf82-ceb4cebf.doc)

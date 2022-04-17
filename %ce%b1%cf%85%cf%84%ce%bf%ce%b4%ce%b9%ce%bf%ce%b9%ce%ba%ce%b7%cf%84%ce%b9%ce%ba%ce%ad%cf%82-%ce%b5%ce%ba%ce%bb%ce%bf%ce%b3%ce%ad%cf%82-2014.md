@@ -7,7 +7,7 @@ layout: page
 guid: 'http://agiannopoulos.gr/?page_id=2562'
 ---
 
-[![Φυλλάδιο_Γιαννόπουλος](http://localhost:8000/wp-content/uploads/2014/05/cf86cf85cebbcebbceacceb4ceb9cebf_ceb3ceb9ceb1cebdcebdcf8ccf80cebfcf85cebbcebfcf82.jpg?w=604)](http://localhost:8000/wp-content/uploads/2014/05/cf86cf85cebbcebbceacceb4ceb9cebf_ceb3ceb9ceb1cebdcebdcf8ccf80cebfcf85cebbcebfcf82.jpg)
+[![Φυλλάδιο_Γιαννόπουλος](/wp-content/uploads/2014/05/cf86cf85cebbcebbceacceb4ceb9cebf_ceb3ceb9ceb1cebdcebdcf8ccf80cebfcf85cebbcebfcf82.jpg?w=604)](/wp-content/uploads/2014/05/cf86cf85cebbcebbceacceb4ceb9cebf_ceb3ceb9ceb1cebdcebdcf8ccf80cebfcf85cebbcebfcf82.jpg)
 
 ΒΟΙΩΤΙΑ
 

@@ -10,4 +10,4 @@ categories:
     - 'Δελτία Τύπου'
 ---
 
-[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΜΕΤΑΝΑΣΤΕΣ 04042012](http://localhost:8000/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebcceb5cf84ceb1cebdceb1cf83cf84ceb5cf83-04042012.doc)
+[ΔΕΛΤΙΟ ΤΥΠΟΥ ΓΙΑ ΜΕΤΑΝΑΣΤΕΣ 04042012](/wp-content/uploads/2012/04/ceb4ceb5cebbcf84ceb9cebf-cf84cf85cf80cebfcf85-ceb3ceb9ceb1-cebcceb5cf84ceb1cebdceb1cf83cf84ceb5cf83-04042012.doc)

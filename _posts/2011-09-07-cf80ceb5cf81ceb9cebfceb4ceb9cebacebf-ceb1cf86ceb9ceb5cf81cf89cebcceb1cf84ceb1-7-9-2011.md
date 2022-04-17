@@ -10,4 +10,4 @@ categories:
     - Άρθρα
 ---
 
-[ΓΙΑ ΠΕΡΙΟΔΙΚΟ ΑΦΙΕΡΩΜΑΤΑ 07092011](http://localhost:8000/wp-content/uploads/2012/04/ceb3ceb9ceb1-cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-ceb1cf86ceb9ceb5cf81cf89cebcceb1cf84ceb1-07092011.doc)
+[ΓΙΑ ΠΕΡΙΟΔΙΚΟ ΑΦΙΕΡΩΜΑΤΑ 07092011](/wp-content/uploads/2012/04/ceb3ceb9ceb1-cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-ceb1cf86ceb9ceb5cf81cf89cebcceb1cf84ceb1-07092011.doc)

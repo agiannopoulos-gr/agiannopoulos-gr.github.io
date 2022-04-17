@@ -10,4 +10,4 @@ categories:
     - Ερωτήσεις
 ---
 
-[ΠΡΟΣ ΟΙΚΟΝΟΜΙΚΩΝ ΓΙΑ Έκθεση της εταιρείας μελετών ΒLACKROCK για τις Ελληνικές Τράπεζες](http://localhost:8000/wp-content/uploads/2012/04/cf80cf81cebfcf83-cebfceb9cebacebfcebdcebfcebcceb9cebacf89cebd-ceb3ceb9ceb1-ceadcebaceb8ceb5cf83ceb7-cf84ceb7cf82-ceb5cf84ceb1ceb9cf81.doc)
+[ΠΡΟΣ ΟΙΚΟΝΟΜΙΚΩΝ ΓΙΑ Έκθεση της εταιρείας μελετών ΒLACKROCK για τις Ελληνικές Τράπεζες](/wp-content/uploads/2012/04/cf80cf81cebfcf83-cebfceb9cebacebfcebdcebfcebcceb9cebacf89cebd-ceb3ceb9ceb1-ceadcebaceb8ceb5cf83ceb7-cf84ceb7cf82-ceb5cf84ceb1ceb9cf81.doc)
