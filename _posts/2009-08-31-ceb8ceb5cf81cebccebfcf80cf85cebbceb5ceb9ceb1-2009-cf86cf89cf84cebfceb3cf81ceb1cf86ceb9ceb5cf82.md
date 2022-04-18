@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/18/2009-09-04-08-33-59/'
 permalink: /2009/08/31/%ce%b8%ce%b5%cf%81%ce%bc%ce%bf%cf%80%cf%85%ce%bb%ce%b5%ce%b9%ce%b1-2009-%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b5%cf%82/
 original_post_id:
     - '228'
-categories:
+tags:
     - Δραστηριότητες
     - Φωτογραφίες
 format: image

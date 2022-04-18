@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1705'
 permalink: /2010/03/15/free-health-%ce%bc%ce%ac%cf%81%cf%84%ce%b9%ce%bf%cf%82-2010/
-categories:
+tags:
     - Άρθρα
 ---
 

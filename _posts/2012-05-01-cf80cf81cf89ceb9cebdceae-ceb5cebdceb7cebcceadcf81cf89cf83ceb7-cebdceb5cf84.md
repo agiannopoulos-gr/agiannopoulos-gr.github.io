@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2544'
 permalink: /2012/05/01/%cf%80%cf%81%cf%89%ce%b9%ce%bd%ce%ae-%ce%b5%ce%bd%ce%b7%ce%bc%ce%ad%cf%81%cf%89%cf%83%ce%b7-%ce%bd%ce%b5%cf%84/
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Εκλογές 2012'
     - Συνεντεύξεις
 ---

@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://localhost:8000/?p=1'
 permalink: '/?p=1'
-categories:
+tags:
     - Uncategorized
 ---
 

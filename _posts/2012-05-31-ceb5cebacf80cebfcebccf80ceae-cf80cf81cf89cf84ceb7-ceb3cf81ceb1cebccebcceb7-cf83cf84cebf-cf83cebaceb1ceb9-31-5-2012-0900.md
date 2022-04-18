@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2530'
 permalink: /2012/05/31/%ce%b5%ce%ba%cf%80%ce%bf%ce%bc%cf%80%ce%ae-%cf%80%cf%81%cf%89%cf%84%ce%b7-%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b7-%cf%83%cf%84%ce%bf-%cf%83%ce%ba%ce%b1%ce%b9-31-5-2012-0900/
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Εκλογές 2012'
     - Συνεντεύξεις
 format: standard

@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/full-dose-paclitaxel-plus-vinore
 permalink: '/?p=50'
 original_post_id:
     - '50'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 

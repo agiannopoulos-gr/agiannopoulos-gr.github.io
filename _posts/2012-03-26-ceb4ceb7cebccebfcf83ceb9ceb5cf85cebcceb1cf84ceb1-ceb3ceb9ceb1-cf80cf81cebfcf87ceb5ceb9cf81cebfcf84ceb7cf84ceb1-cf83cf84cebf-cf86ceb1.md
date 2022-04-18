@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1687'
 permalink: /2012/03/26/%ce%b4%ce%b7%ce%bc%ce%bf%cf%83%ce%b9%ce%b5%cf%85%ce%bc%ce%b1%cf%84%ce%b1-%ce%b3%ce%b9%ce%b1-%cf%80%cf%81%ce%bf%cf%87%ce%b5%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1-%cf%83%cf%84%ce%bf-%cf%86%ce%b1/
-categories:
+tags:
     - 'Αναφορές στον Τύπο'
 ---
 

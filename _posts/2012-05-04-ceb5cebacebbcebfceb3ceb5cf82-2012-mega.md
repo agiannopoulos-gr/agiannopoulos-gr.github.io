@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2496'
 permalink: /2012/05/04/%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%b5%cf%82-2012-mega/
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Εκλογές 2012'
     - Συνεντεύξεις
 ---

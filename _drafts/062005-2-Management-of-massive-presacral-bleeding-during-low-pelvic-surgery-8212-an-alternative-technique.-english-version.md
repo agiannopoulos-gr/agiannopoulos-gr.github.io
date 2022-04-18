@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/management-of-massive-presacral-
 permalink: '/?p=54'
 original_post_id:
     - '54'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 

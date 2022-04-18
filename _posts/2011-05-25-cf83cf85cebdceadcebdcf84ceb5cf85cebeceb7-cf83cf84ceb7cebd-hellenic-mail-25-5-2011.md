@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1668'
 permalink: /2011/05/25/%cf%83%cf%85%ce%bd%ce%ad%ce%bd%cf%84%ce%b5%cf%85%ce%be%ce%b7-%cf%83%cf%84%ce%b7%ce%bd-hellenic-mail-25-5-2011/
-categories:
+tags:
     - Συνεντεύξεις
 ---
 

@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2207'
 permalink: /2012/04/29/%cf%83%cf%85%ce%bd%ce%ad%ce%bd%cf%84%ce%b5%cf%85%ce%be%ce%b7-%cf%83%cf%84%ce%bf-star-%ce%ba%ce%b5%ce%bd%cf%84%cf%81%ce%b9%ce%ba%ce%ae%cf%82-%ce%b5%ce%bb%ce%bb%ce%ac%ce%b4%ce%b1%cf%82/
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Εκλογές 2012'
     - Συνεντεύξεις
     - 'Τοπικός Τύπος'

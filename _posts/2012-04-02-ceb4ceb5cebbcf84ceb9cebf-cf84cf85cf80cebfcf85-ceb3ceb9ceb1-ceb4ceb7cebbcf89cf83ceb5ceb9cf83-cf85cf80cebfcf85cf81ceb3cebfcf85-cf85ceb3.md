@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1509'
 permalink: /2012/04/02/%ce%b4%ce%b5%ce%bb%cf%84%ce%b9%ce%bf-%cf%84%cf%85%cf%80%ce%bf%cf%85-%ce%b3%ce%b9%ce%b1-%ce%b4%ce%b7%ce%bb%cf%89%cf%83%ce%b5%ce%b9%cf%83-%cf%85%cf%80%ce%bf%cf%85%cf%81%ce%b3%ce%bf%cf%85-%cf%85%ce%b3/
-categories:
+tags:
     - 'Δελτία Τύπου'
 ---
 

@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2217'
 permalink: /2012/04/30/%ce%ac%cf%81%ce%b8%cf%81%ce%bf-%cf%83%cf%84%ce%bf-press-gr-blogspot-com-%ce%b7-%cf%85%ce%b3%ce%b5%ce%af%ce%b1-%ce%bc%cf%80%ce%bf%cf%81%ce%b5%ce%af-%ce%ba%ce%b1%ce%b9-%cf%80%cf%81%ce%ad%cf%80%ce%b5/
 switch_like_status:
     - '1'
-categories:
+tags:
     - Άρθρα
     - 'Εκλογές 2012'
 ---

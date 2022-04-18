@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1603'
 permalink: /2011/12/27/%ce%b4%ce%b5%ce%bb%cf%84%ce%b9%ce%bf-%cf%84%cf%85%cf%80%ce%bf%cf%85-%cf%84%ce%bf%ce%bc%ce%b5%ce%b1-%cf%85%ce%b3%ce%b5%ce%b9%ce%b1%cf%83-%ce%b3%ce%b9%ce%b1-%ce%ba%cf%81%ce%b9%cf%83%ce%b5%ce%b9%cf%83-1/
-categories:
+tags:
     - 'Δελτία Τύπου'
 ---
 

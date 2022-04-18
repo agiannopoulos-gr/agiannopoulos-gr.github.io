@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/retroperitoneal-perforation-of-a
 permalink: '/?p=53'
 original_post_id:
     - '53'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 

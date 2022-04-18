@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/sclerosing-cholangitis-of-the-bi
 permalink: '/?p=45'
 original_post_id:
     - '45'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 

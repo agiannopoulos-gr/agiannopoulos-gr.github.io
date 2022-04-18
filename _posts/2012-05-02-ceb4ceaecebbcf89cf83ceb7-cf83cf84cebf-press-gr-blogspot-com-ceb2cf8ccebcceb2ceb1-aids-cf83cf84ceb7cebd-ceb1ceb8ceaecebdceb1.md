@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2296'
 permalink: /2012/05/02/%ce%b4%ce%ae%ce%bb%cf%89%cf%83%ce%b7-%cf%83%cf%84%ce%bf-press-gr-blogspot-com-%ce%b2%cf%8c%ce%bc%ce%b2%ce%b1-aids-%cf%83%cf%84%ce%b7%ce%bd-%ce%b1%ce%b8%ce%ae%ce%bd%ce%b1/
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Δελτία Τύπου'
 ---
 

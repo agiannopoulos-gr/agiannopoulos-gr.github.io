@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2450'
 permalink: /2007/06/17/%cf%85%cf%80%ce%ac%cf%84%ce%b7-%ce%b5%cf%80%ce%ad%cf%84%ce%b5%ce%b9%ce%bf%cf%82-%ce%bf%ce%bb%ce%bf%ce%ba%ce%b1%cf%85%cf%84%cf%8e%ce%bc%ce%b1%cf%84%ce%bf%cf%82-1944-%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81/
 switch_like_status:
     - '1'
-categories:
+tags:
     - Δραστηριότητες
     - Φωτογραφίες
 format: image

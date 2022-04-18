@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1893'
 permalink: /2012/03/07/%ce%b5%cf%81%cf%8e%cf%84%ce%b7%cf%83%ce%b7-%ce%b3%ce%b9%ce%b1-%ce%ba%cf%81%ce%bf%cf%8d%cf%83%ce%bc%ce%b1%cf%84%ce%b1-%cf%86%cf%85%ce%bc%ce%b1%cf%84%ce%af%cf%89%cf%83%ce%b7%cf%82-%cf%83%cf%84%ce%b9/
-categories:
+tags:
     - Ερωτήσεις
 ---
 

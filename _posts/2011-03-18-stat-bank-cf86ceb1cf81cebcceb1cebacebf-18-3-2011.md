@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1708'
 permalink: /2011/03/18/stat-bank-%cf%86%ce%b1%cf%81%ce%bc%ce%b1%ce%ba%ce%bf-18-3-2011/
-categories:
+tags:
     - Άρθρα
 ---
 

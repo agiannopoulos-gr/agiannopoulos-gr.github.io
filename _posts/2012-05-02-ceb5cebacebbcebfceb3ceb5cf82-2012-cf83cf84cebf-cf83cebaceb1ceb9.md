@@ -10,7 +10,7 @@ switch_like_status:
     - '1'
 publicize_results:
     - 'a:1:{s:2:"fb";a:1:{i:1635723659;a:2:{s:7:"user_id";s:10:"1635723659";s:7:"post_id";s:13:"3527334115471";}}}'
-categories:
+tags:
     - 'Εκλογές 2012'
     - Συνεντεύξεις
 ---

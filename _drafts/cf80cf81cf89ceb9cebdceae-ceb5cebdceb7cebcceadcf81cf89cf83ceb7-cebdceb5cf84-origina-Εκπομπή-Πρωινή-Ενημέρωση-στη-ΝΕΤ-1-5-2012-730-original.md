@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2248'
 permalink: '/?p=2248'
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Εκλογές 2012'
     - Συνεντεύξεις
 ---

@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2466'
 permalink: /2012/05/01/%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%ad%cf%82-2012-%cf%83%cf%85%ce%b6%ce%ae%cf%84%ce%b7%cf%83%ce%b7-%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%af%ce%b5%cf%82/
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Εκλογές 2012'
     - Φωτογραφίες
 format: image

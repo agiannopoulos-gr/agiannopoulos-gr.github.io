@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/biochemical-modulation-of-fluoro
 permalink: '/?p=47'
 original_post_id:
     - '47'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 

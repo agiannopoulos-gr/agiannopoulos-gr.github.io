@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/chemotherapy-of-biliary-tract-ca
 permalink: '/?p=46'
 original_post_id:
     - '46'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 

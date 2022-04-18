@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2519'
 permalink: /2012/05/24/dt-problhmata-eopy/
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Δελτία Τύπου'
 ---
 

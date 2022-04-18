@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1662'
 permalink: /2011/02/15/%ce%b5%ce%bb%ce%b5%cf%85%ce%b8%ce%b5%cf%81%ce%bf%cf%83-%cf%84%cf%85%cf%80%ce%bf%cf%83-%cf%86%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%83-2011/
-categories:
+tags:
     - Συνεντεύξεις
 ---
 

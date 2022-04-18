@@ -6,7 +6,7 @@ author: agiannopoulos
 layout: post
 guid: 'http://agiannopoulos.gr/?p=1681'
 permalink: /2011/10/18/%ce%b4%ce%b7%ce%bc%ce%bf%ce%ba%cf%81%ce%b1%cf%84%ce%b9%ce%b1-18-10-2011/
-categories:
+tags:
     - 'Αναφορές στον Τύπο'
 ---
 

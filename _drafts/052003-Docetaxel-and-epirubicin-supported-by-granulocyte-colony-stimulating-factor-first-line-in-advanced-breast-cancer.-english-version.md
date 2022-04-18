@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/docetaxel-and-epirubicin-support
 permalink: '/?p=52'
 original_post_id:
     - '52'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 

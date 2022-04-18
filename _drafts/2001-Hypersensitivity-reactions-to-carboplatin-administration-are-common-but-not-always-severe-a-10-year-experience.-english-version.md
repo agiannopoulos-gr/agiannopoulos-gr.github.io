@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/hypersensitivity-reactions-to-ca
 permalink: '/?p=48'
 original_post_id:
     - '48'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 

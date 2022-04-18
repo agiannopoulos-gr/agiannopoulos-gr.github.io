@@ -8,7 +8,7 @@ guid: 'http://agiannopoulos.gr/?p=2509'
 permalink: /2012/05/11/%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%ad%cf%82-2012-%ce%bc%ce%ae%ce%bd%cf%85%ce%bc%ce%b1/
 switch_like_status:
     - '1'
-categories:
+tags:
     - 'Εκλογές 2012'
     - Μηνύματα
 format: aside

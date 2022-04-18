@@ -8,7 +8,7 @@ guid: 'http://agiannop.wordpress.com/?p=1135'
 permalink: /2009/01/01/%ce%b4%ce%b9%ce%b1%cf%86%ce%bf%cf%81%ce%b5%cf%82-%cf%86%cf%89%cf%84%ce%bf%ce%b3%cf%81%ce%b1%cf%86%ce%b9%ce%b5%cf%82/
 switch_like_status:
     - '1'
-categories:
+tags:
     - Φωτογραφίες
 format: image
 ---

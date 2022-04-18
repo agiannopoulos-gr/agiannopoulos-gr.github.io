@@ -8,7 +8,7 @@ guid: 'http://agiannop.mousmoulas.gr/2009/02/17/irinotecan-as-salvage-chemothera
 permalink: '/?p=51'
 original_post_id:
     - '51'
-categories:
+tags:
     - Άρθρα-Έρευνες
 ---
 
