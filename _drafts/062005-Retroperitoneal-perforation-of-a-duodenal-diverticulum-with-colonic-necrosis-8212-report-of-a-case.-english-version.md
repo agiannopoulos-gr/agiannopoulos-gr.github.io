@@ -1,6 +1,6 @@
 ---
 id: 53
-title: 'Retroperitoneal perforation of a duodenal diverticulum with colonic necrosis &#8212; report of a case. (english version)'
+title: 'Retroperitoneal perforation of a duodenal diverticulum with colonic necrosis - report of a case. (english version)'
 date: '2005-06-01T08:18:26+03:00'
 author: agiannopoulos
 layout: post

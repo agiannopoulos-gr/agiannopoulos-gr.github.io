@@ -1,6 +1,6 @@
 ---
 id: 2509
-title: 'Εκλογές 2012 &#8211; Μήνυμα'
+title: 'Εκλογές 2012 - Μήνυμα'
 date: '2012-05-11T11:37:42+03:00'
 author: agiannopoulos
 layout: post

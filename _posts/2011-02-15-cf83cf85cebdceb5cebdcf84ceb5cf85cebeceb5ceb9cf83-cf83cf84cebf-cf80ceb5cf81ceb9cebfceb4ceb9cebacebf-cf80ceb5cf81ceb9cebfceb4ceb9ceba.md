@@ -1,6 +1,6 @@
 ---
 id: 1655
-title: 'ΣΥΝΕΝΤΕΥΞΕΙΣ ΣΤΟ ΠΕΡΙΟΔΙΚΟ ΠΕΡΙΟΔΙΚΟ &#8220;ΠΟΛΗ &amp; ΠΟΛΙΤΙΚΗ&#8221;'
+title: 'ΣΥΝΕΝΤΕΥΞΕΙΣ ΣΤΟ ΠΕΡΙΟΔΙΚΟ ΠΕΡΙΟΔΙΚΟ “ΠΟΛΗ & ΠΟΛΙΤΙΚΗ”'
 date: '2011-02-15T16:47:47+02:00'
 author: agiannopoulos
 layout: post
@@ -12,4 +12,4 @@ categories:
 
 [ΠΕΡΙΟΔΙΚΟ ΠΟΛΗ ΚΑΙ ΠΟΛΙΤΙΚΗ 31012011](/wp-content/uploads/2012/04/cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-cf80cebfcebbceb7-cebaceb1ceb9-cf80cebfcebbceb9cf84ceb9cebaceb7-31012011.doc)
 
-[ΠΕΡΙΟΔΙΚΟ ΠΟΛΗ &amp; ΠΟΛΙΤΙΚΗ 15022011](/wp-content/uploads/2012/04/cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-cf80cebfcebbceb7-cf80cebfcebbceb9cf84ceb9cebaceb7-15022011.doc)
+[ΠΕΡΙΟΔΙΚΟ ΠΟΛΗ & ΠΟΛΙΤΙΚΗ 15022011](/wp-content/uploads/2012/04/cf80ceb5cf81ceb9cebfceb4ceb9cebacebf-cf80cebfcebbceb7-cf80cebfcebbceb9cf84ceb9cebaceb7-15022011.doc)

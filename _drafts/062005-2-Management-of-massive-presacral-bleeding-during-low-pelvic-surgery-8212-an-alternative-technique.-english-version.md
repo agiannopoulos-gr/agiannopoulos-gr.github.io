@@ -1,6 +1,6 @@
 ---
 id: 54
-title: 'Management of massive presacral bleeding during low pelvic surgery &#8212; an alternative technique. (english version)'
+title: 'Management of massive presacral bleeding during low pelvic surgery — an alternative technique. (english version)'
 date: '2005-06-02T08:19:43+03:00'
 author: agiannopoulos
 layout: post

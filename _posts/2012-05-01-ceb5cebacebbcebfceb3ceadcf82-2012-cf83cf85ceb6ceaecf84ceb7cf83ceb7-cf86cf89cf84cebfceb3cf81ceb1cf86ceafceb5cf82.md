@@ -1,6 +1,6 @@
 ---
 id: 2466
-title: 'Εκλογές 2012 &#8211; Συζήτηση'
+title: 'Εκλογές 2012 – Συζήτηση'
 date: '2012-05-01T22:00:24+03:00'
 author: agiannopoulos
 layout: post

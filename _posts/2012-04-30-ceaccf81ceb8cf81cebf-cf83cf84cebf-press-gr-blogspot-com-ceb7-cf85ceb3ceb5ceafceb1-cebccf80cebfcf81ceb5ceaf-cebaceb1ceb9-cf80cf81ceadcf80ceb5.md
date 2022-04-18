@@ -1,6 +1,6 @@
 ---
 id: 2217
-title: 'Άρθρο στο PRESS-GR.blogspot.com: Η Υγεία μπορεί και πρέπει να βελτιωθεί άμεσα&#8230;'
+title: 'Άρθρο στο PRESS-GR.blogspot.com: Η Υγεία μπορεί και πρέπει να βελτιωθεί άμεσα…'
 date: '2012-04-30T10:17:04+03:00'
 author: agiannopoulos
 layout: post

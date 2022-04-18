@@ -1,6 +1,6 @@
 ---
 id: 55
-title: 'Μετεκπαίδευση &amp; Διακρίσεις'
+title: 'Μετεκπαίδευση & Διακρίσεις'
 date: '2009-02-17T08:23:15+02:00'
 author: agiannopoulos
 layout: page

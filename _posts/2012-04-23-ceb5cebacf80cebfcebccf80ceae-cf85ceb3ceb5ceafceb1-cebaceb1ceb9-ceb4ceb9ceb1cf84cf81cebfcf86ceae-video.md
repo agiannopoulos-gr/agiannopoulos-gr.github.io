@@ -1,6 +1,6 @@
 ---
 id: 2479
-title: 'Συνέντευξη στην εκπομπή «Υγεία &amp; Διατροφή» στο KONTRA CHANNEL, 23-4-2012'
+title: 'Συνέντευξη στην εκπομπή «Υγεία & Διατροφή» στο KONTRA CHANNEL, 23-4-2012'
 date: '2012-04-23T22:00:31+03:00'
 author: agiannopoulos
 layout: post
