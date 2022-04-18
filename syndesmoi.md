@@ -7,6 +7,7 @@ layout: page
 guid: 'http://agiannop.mousmoulas.gr/2009/02/10/2009-02-10-07-37-38/'
 original_post_id:
     - '40'
+permalink: /syndesmoi/
 ---
 
 [ΒΟΥΛΗ ΤΩΝ ΕΛΛΗΝΩΝ](http://www.hellenicparliament.gr/)

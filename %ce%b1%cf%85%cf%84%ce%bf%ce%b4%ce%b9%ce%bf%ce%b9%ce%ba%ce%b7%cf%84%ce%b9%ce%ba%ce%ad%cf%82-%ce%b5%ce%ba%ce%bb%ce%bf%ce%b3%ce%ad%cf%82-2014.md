@@ -5,6 +5,7 @@ date: '2014-04-29T12:08:27+03:00'
 author: agiannopoulos
 layout: page
 guid: 'http://agiannopoulos.gr/?page_id=2562'
+permalink: /
 ---
 
 [![Φυλλάδιο_Γιαννόπουλος](/wp-content/uploads/2014/05/cf86cf85cebbcebbceacceb4ceb9cebf_ceb3ceb9ceb1cebdcebdcf8ccf80cebfcf85cebbcebfcf82.jpg?w=604)](/wp-content/uploads/2014/05/cf86cf85cebbcebbceacceb4ceb9cebf_ceb3ceb9ceb1cebdcebdcf8ccf80cebfcf85cebbcebfcf82.jpg)

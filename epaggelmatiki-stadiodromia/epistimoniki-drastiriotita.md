@@ -7,6 +7,7 @@ layout: page
 guid: 'http://agiannop.mousmoulas.gr/2009/02/17/2009-02-17-08-29-52/'
 original_post_id:
     - '56'
+permalink: /epaggelmatiki-stadiodromia/epistimoniki-drastiriotita/
 ---
 
 Είμαι μέλος 15 (10 Ελληνικών και 5 Διεθνών) Επιστημονικών Εταιρειών και συγκεκριμένα:

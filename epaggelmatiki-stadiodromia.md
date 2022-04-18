@@ -7,6 +7,7 @@ layout: page
 guid: 'http://agiannop.mousmoulas.gr/?page_id=568'
 original_post_id:
     - '568'
+permalink: /epaggelmatiki-stadiodromia/
 ---
 
 [ΑΚΑΔΗΜΑΪΚΗ ΚΑΡΙΕΡΑ](http://agiannop.wordpress.com/epaggelmatiki-poreia/akadhmaikh-kariera/ "ΑΚΑΔΗΜΑΪΚΗ ΚΑΡΙΕΡΑ")

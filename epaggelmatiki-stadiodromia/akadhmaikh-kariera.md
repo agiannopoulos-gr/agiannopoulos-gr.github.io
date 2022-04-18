@@ -7,6 +7,7 @@ layout: page
 guid: 'http://agiannop.mousmoulas.gr/2009/02/17/2009-02-17-06-58-09/'
 original_post_id:
     - '41'
+permalink: /epaggelmatiki-stadiodromia/akadhmaikh-kariera/
 ---
 
 **ΣΠΟΥΔΕΣ ΚΑΙ ΣΤΑΔΙΟΔΡΟΜΙΑ**

@@ -7,6 +7,7 @@ layout: page
 guid: 'http://agiannop.mousmoulas.gr/2009/02/09/2009-02-09-10-38-18/'
 original_post_id:
     - '37'
+permalink: /viografiko/
 ---
 
 <div style="text-align:justify;">**ΓΙΑΝΝΟΠΟΥΛΟΣ Λ. ΑΘΑΝΑΣΙΟΣ**  

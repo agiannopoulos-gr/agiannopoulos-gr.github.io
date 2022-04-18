@@ -7,6 +7,7 @@ layout: page
 guid: 'http://agiannop.mousmoulas.gr/2009/02/10/2009-02-10-07-28-01/'
 original_post_id:
     - '38'
+permalink: /epikoinonia/
 ---
 
 **ΠΟΛΙΤΙΚΟ ΓΡΑΦΕΙΟ**:  
