@@ -1,0 +1,62 @@
+main:
+  - title: ΒΙΟΓΡΑΦΙΚΟ
+    url: /viografiko/
+  - title: ΦΩΤΟΓΡΑΦΙΕΣ
+    url: /category/φωτογραφίες/
+  - title: ΕΠΙΚΟΙΝΩΝΙΑ
+    url: /epikoinonia/
+
+sidebar:
+  - title: ΓΕΝΙΚΑ
+    children:
+      - title: Βιογραφικό
+        url: /viografiko/
+      - title: Σύνδεσμοι
+        url: /syndesmoi/
+      - title: Φωτογραφικό Υλικό
+        url: /category/φωτογραφίες/
+      - title: Επικοινωνία
+        url: /epikoinonia/
+      - title: Εκλογές 2012
+        url: /category/%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%ad%cf%82-2012/
+      - title: Αυτοδιοικητικές Εκλογές 2014
+        url: /
+  - title: ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΠΟΡΕΙΑ
+    url: /viografiko/
+    children:
+      - title: Ακαδημαϊκή Καριέρα
+        url: /epaggelmatiki-stadiodromia/akadhmaikh-kariera/
+      - title: Μετεκπαίδευση & Διακρίσεις
+        url: /epaggelmatiki-stadiodromia/metekpaideusi-diakriseis/
+      - title: Επιστημονική Δραστηριότητα
+        url: /epaggelmatiki-stadiodromia/epistimoniki-drastiriotita/
+  - title: ΚΟΙΝΟΒΟΥΛΕΥΤΙΚΟ ΕΡΓΟ
+    children:
+      - title: Ερωτήσεις
+        url: /category/koinobouleutiko-ergo/erotiseis/
+      - title: Ομιλίες σε Ολομέλεια
+        url: /category/koinobouleutiko-ergo/omilies-se-olomeleia/
+      - title: Ομιλίες σε Επιτροπές
+        url: /category/koinobouleutiko-ergo/omilies-se-epitropes/
+      - title: Νομοθεσία
+        url: /category/koinobouleutiko-ergo/nomothesia/
+  - title: ΦΘΙΩΤΙΔΑ
+    children:
+      - title: Τοπικός Τύπος
+        url: /category/%cf%86%ce%b8%ce%b9%cf%8e%cf%84%ce%b9%ce%b4%ce%b1/%cf%84%ce%bf%cf%80%ce%b9%ce%ba%cf%8c%cf%82-%cf%84%cf%8d%cf%80%ce%bf%cf%82/
+      - title: Δραστηριότητες
+        url: /category/%cf%86%ce%b8%ce%b9%cf%8e%cf%84%ce%b9%ce%b4%ce%b1/%ce%b4%cf%81%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%cf%8c%cf%84%ce%b7%cf%84%ce%b5%cf%82/
+  - title: ΤΟΠΟΘΕΤΗΣΕΙΣ
+    children:
+      - title: Άρθρα
+        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%ce%ac%cf%81%ce%b8%cf%81%ce%b1/
+      - title: Αναφορές στον Τύπο
+        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%bd%ce%b1%cf%86%ce%bf%cf%81%ce%ad%cf%82-%cf%83%cf%84%ce%bf%ce%bd-%cf%84%cf%8d%cf%80%ce%bf/
+      - title: Μηνύματα
+        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%ce%bc%ce%b7%ce%bd%cf%8d%ce%bc%ce%b1%cf%84%ce%b1/
+      - title: Ομιλίες
+        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%ce%bc%ce%b9%ce%bb%ce%af%ce%b5%cf%82/
+      - title: Συνεντεύξεις
+        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%cf%83%cf%85%ce%bd%ce%b5%ce%bd%cf%84%ce%b5%cf%8d%ce%be%ce%b5%ce%b9%cf%82/
+      - title: Δελτία Τύπου
+        url: /category/koinobouleutiko-ergo/%ce%b4%ce%b5%ce%bb%cf%84%ce%af%ce%b1-%cf%84%cf%8d%cf%80%ce%bf%cf%85/

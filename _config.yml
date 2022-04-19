@@ -61,6 +61,8 @@ defaults:
     values:
       layout: single
       share: true
+      sidebar:
+        nav: "sidebar"
   - scope:
       path: ""
       type: "posts"
