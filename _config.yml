@@ -23,7 +23,7 @@ url: 'https://agiannopoulos.gr'
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   # gh-pages always-on
   - jekyll-coffeescript
@@ -37,6 +37,8 @@ plugins:
   - jekyll-relative-links
   # extra
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -52,3 +54,15 @@ plugins:
 
 lang: el
 locale: el_GR
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      share: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      show_date: true
