@@ -18,7 +18,7 @@ sidebar:
       - title: Επικοινωνία
         url: /epikoinonia/
       - title: Εκλογές 2012
-        url: /category/%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%ad%cf%82-2012/
+        url: /category/εκλογές-2012/
       - title: Αυτοδιοικητικές Εκλογές 2014
         url: /
   - title: ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΠΟΡΕΙΑ
@@ -43,20 +43,20 @@ sidebar:
   - title: ΦΘΙΩΤΙΔΑ
     children:
       - title: Τοπικός Τύπος
-        url: /category/%cf%86%ce%b8%ce%b9%cf%8e%cf%84%ce%b9%ce%b4%ce%b1/%cf%84%ce%bf%cf%80%ce%b9%ce%ba%cf%8c%cf%82-%cf%84%cf%8d%cf%80%ce%bf%cf%82/
+        url: /category/φθιώτιδα/τοπικός-τύπος/
       - title: Δραστηριότητες
-        url: /category/%cf%86%ce%b8%ce%b9%cf%8e%cf%84%ce%b9%ce%b4%ce%b1/%ce%b4%cf%81%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%cf%8c%cf%84%ce%b7%cf%84%ce%b5%cf%82/
+        url: /category/φθιώτιδα/δραστηριότητες/
   - title: ΤΟΠΟΘΕΤΗΣΕΙΣ
     children:
       - title: Άρθρα
-        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%ce%ac%cf%81%ce%b8%cf%81%ce%b1/
+        url: /category/δημόσιες-τοποθετήσεις/άρθρα/
       - title: Αναφορές στον Τύπο
-        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%ce%b1%ce%bd%ce%b1%cf%86%ce%bf%cf%81%ce%ad%cf%82-%cf%83%cf%84%ce%bf%ce%bd-%cf%84%cf%8d%cf%80%ce%bf/
+        url: /category/δημόσιες-τοποθετήσεις/αναφορές-στον-τύπο/
       - title: Μηνύματα
-        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%ce%bc%ce%b7%ce%bd%cf%8d%ce%bc%ce%b1%cf%84%ce%b1/
+        url: /category/δημόσιες-τοποθετήσεις/μηνύματα/
       - title: Ομιλίες
-        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%ce%bf%ce%bc%ce%b9%ce%bb%ce%af%ce%b5%cf%82/
+        url: /category/δημόσιες-τοποθετήσεις/ομιλίες/
       - title: Συνεντεύξεις
-        url: /category/%ce%b4%ce%b7%ce%bc%cf%8c%cf%83%ce%b9%ce%b5%cf%82-%cf%84%ce%bf%cf%80%ce%bf%ce%b8%ce%b5%cf%84%ce%ae%cf%83%ce%b5%ce%b9%cf%82/%cf%83%cf%85%ce%bd%ce%b5%ce%bd%cf%84%ce%b5%cf%8d%ce%be%ce%b5%ce%b9%cf%82/
+        url: /category/δημόσιες-τοποθετήσεις/συνεντεύξεις/
       - title: Δελτία Τύπου
-        url: /category/koinobouleutiko-ergo/%ce%b4%ce%b5%ce%bb%cf%84%ce%af%ce%b1-%cf%84%cf%8d%cf%80%ce%bf%cf%85/
+        url: /category/koinobouleutiko-ergo/δελτία-τύπου/
