@@ -25,6 +25,17 @@ url: 'https://agiannopoulos.gr'
 markdown: kramdown
 theme: minima
 plugins:
+  # gh-pages always-on
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  # extra
   - jekyll-feed
 
 # Exclude from processing.
