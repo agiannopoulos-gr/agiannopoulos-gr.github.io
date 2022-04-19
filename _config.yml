@@ -68,3 +68,17 @@ defaults:
       type: "posts"
     values:
       show_date: true
+  - scope:
+      path: ""
+      type: "category"
+    values:
+      layout: tag
+
+collections:
+  category:
+    output: true
+    permalink: /:collection/:path/
+
+tag_archive:
+  type: liquid
+  path: /tags/
