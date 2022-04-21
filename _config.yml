@@ -85,6 +85,8 @@ tag_archive:
   type: liquid
   path: /tags/
 
+logo: "/assets/img/masthead_logo.jpg"
+
 search: true
 date_format: "%-d %b %Y"
 
