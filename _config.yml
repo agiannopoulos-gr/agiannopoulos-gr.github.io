@@ -85,3 +85,6 @@ tag_archive:
 
 paginate: 10 # amount of posts to show
 paginate_path: /blog/page:num/
+
+
+minimal_mistakes_skin: air
