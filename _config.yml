@@ -37,6 +37,8 @@ plugins:
   - jekyll-relative-links
   # extra
   - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-sitemap
   - jekyll-include-cache
   - jekyll-remote-theme
 
@@ -109,3 +111,5 @@ head_scripts:
   - /assets/js/email-protector.js
 
 title_separator: "|"
+
+google_site_verification: "qAWvA1i287G_xbadVDzEnPZY03SHLD0jf1rG9CL8zEU"
