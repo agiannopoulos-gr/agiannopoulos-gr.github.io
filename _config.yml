@@ -104,3 +104,6 @@ paginate_path: /blog/page:num/
 
 
 minimal_mistakes_skin: air
+
+head_scripts:
+  - /assets/js/email-protector.js
