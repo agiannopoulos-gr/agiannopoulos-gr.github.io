@@ -55,6 +55,8 @@ plugins:
 lang: el
 locale: el_GR
 
+repository: "agiannopoulos-gr/agiannopoulos-gr.github.io"
+
 defaults:
   - scope:
       path: ""
