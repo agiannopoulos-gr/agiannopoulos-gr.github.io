@@ -10,3 +10,11 @@
 .site-logo img {
     border-radius: $border-radius;
 }
+.page__footer .page__footer-copyright:before {
+    display: table;
+    clear: both;
+    content: url("https://i.creativecommons.org/l/by-nd/3.0/gr/88x31.png");
+    @include breakpoint(max-width $large - 1px) {
+        content: url("https://i.creativecommons.org/l/by-nd/3.0/gr/80x15.png");
+    }
+}

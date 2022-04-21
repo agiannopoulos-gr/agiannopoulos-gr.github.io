@@ -90,6 +90,15 @@ logo: "/assets/img/masthead_logo.jpg"
 search: true
 date_format: "%-d %b %Y"
 
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SymfoniaStereas"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/pages/%CE%A3%CF%85%CE%BC%CF%86%CF%89%CE%BD%CE%AF%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7-%CE%A3%CF%84%CE%B5%CF%81%CE%B5%CE%AC/670266956395190"
+
 paginate: 10 # amount of posts to show
 paginate_path: /blog/page:num/
 
