@@ -10,16 +10,16 @@ original_post_id:
 permalink: /epaggelmatiki-stadiodromia/
 ---
 
-[ΑΚΑΔΗΜΑΪΚΗ ΚΑΡΙΕΡΑ](http://agiannop.wordpress.com/epaggelmatiki-poreia/akadhmaikh-kariera/ "ΑΚΑΔΗΜΑΪΚΗ ΚΑΡΙΕΡΑ")
+[ΑΚΑΔΗΜΑΪΚΗ ΚΑΡΙΕΡΑ]({% link epaggelmatiki-stadiodromia/akadhmaikh-kariera.md %} "ΑΚΑΔΗΜΑΪΚΗ ΚΑΡΙΕΡΑ")
 
-[ΠΑΝΕΠΙΣΤΗΜΙΑΚΟ ΕΡΓΟ](http://agiannop.wordpress.com/epaggelmatiki-poreia/panepisthmiako-ergo/ "ΠΑΝΕΠΙΣΤΗΜΙΑΚΟ ΕΡΓΟ")
+[ΠΑΝΕΠΙΣΤΗΜΙΑΚΟ ΕΡΓΟ]({% link epaggelmatiki-stadiodromia/akadhmaikh-kariera.md %} "ΠΑΝΕΠΙΣΤΗΜΙΑΚΟ ΕΡΓΟ")
 
-[ΟΜΙΛΙΕΣ ΣΕ ΣΥΝΕΔΡΙΑ](/category/epaggelmatiki-poreia/omilies-se-synedria/ "ΟΜΙΛΙΕΣ ΣΕ ΣΥΝΕΔΡΙΑ")
+[ΟΜΙΛΙΕΣ ΣΕ ΣΥΝΕΔΡΙΑ]({% link _category/δημόσιες-τοποθετήσεις/ομιλίες.md %} "ΟΜΙΛΙΕΣ ΣΕ ΣΥΝΕΔΡΙΑ")
 
-[ΑΡΘΡΑ-ΕΡΕΥΝΕΣ](/category/epaggelmatiki-poreia/arthra-ereunes/ "ΑΡΘΡΑ-ΕΡΕΥΝΕΣ")
+[ΑΡΘΡΑ-ΕΡΕΥΝΕΣ]({% link _category/δημόσιες-τοποθετήσεις/άρθρα.md %} "ΑΡΘΡΑ-ΕΡΕΥΝΕΣ")
 
-[ΤΙΤΛΟΙ-ΠΤΥΧΙΑ](http://agiannop.wordpress.com/epaggelmatiki-poreia/titloi-ptyxia-diakriseis/ "ΤΙΤΛΟΙ-ΠΤΥΧΙΑ-ΔΙΑΚΡΙΣΕΙΣ")
+[ΤΙΤΛΟΙ-ΠΤΥΧΙΑ]({% link epaggelmatiki-stadiodromia/metekpaideusi-diakriseis.md %} "ΤΙΤΛΟΙ-ΠΤΥΧΙΑ-ΔΙΑΚΡΙΣΕΙΣ")
 
-[ΜΕΤΕΚΠΑΙΔΕΥΣΗ](http://agiannop.wordpress.com/epaggelmatiki-poreia/metekpaideusi/ "ΜΕΤΕΚΠΑΙΔΕΥΣΗ")
+[ΜΕΤΕΚΠΑΙΔΕΥΣΗ]({% link epaggelmatiki-stadiodromia/metekpaideusi-diakriseis.md %} "ΜΕΤΕΚΠΑΙΔΕΥΣΗ")
 
-[ΕΠΙΣΤΗΜΟΝΙΚΗ ΔΡΑΣΤΗΡΙΟΤΗΤΑ](http://agiannop.wordpress.com/epaggelmatiki-poreia/epistimoniki-drastiriotita/ "ΕΠΙΣΤΗΜΟΝΙΚΗ ΔΡΑΣΤΗΡΙΟΤΗΤΑ ΜΕΛΟΣ ΕΠΙΣΤΗΜΟΝΙΚΩΝ ΕΤΑΙΡΕΙΩΝ")
+[ΕΠΙΣΤΗΜΟΝΙΚΗ ΔΡΑΣΤΗΡΙΟΤΗΤΑ]({% link epaggelmatiki-stadiodromia/epistimoniki-drastiriotita.md %} "ΕΠΙΣΤΗΜΟΝΙΚΗ ΔΡΑΣΤΗΡΙΟΤΗΤΑ ΜΕΛΟΣ ΕΠΙΣΤΗΜΟΝΙΚΩΝ ΕΤΑΙΡΕΙΩΝ")
