@@ -83,6 +83,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
+search: true
+date_format: "%-d %b %Y"
+
 paginate: 10 # amount of posts to show
 paginate_path: /blog/page:num/
 
