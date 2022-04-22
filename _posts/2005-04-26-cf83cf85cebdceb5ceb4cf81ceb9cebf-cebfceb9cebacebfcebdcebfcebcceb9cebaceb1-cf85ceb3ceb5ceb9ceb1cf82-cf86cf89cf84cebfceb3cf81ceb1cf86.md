@@ -11,6 +11,13 @@ switch_like_status:
 tags:
     - Φωτογραφίες
 format: image
+gallery:
+  - url: "/wp-content/uploads/2012/05/cebfcf85ceb502.jpg"
+    image_path: "/wp-content/uploads/2012/05/cebfcf85ceb502-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/cebfcf85ceb507.jpg"
+    image_path: "/wp-content/uploads/2012/05/cebfcf85ceb507-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/cebfcf85ceb510.jpg"
+    image_path: "/wp-content/uploads/2012/05/cebfcf85ceb510-150x150.jpg"
 ---
 
-<div class="gallery galleryid-2419 gallery-columns-3 gallery-size-thumbnail" id="gallery-4"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/cebfcf85ceb502-150x150.jpg)](/wp-content/uploads/2012/05/cebfcf85ceb502.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/cebfcf85ceb507-150x150.jpg)](/wp-content/uploads/2012/05/cebfcf85ceb507.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/cebfcf85ceb510-150x150.jpg)](/wp-content/uploads/2012/05/cebfcf85ceb510.jpg) </div></figure> </div>
+{% include gallery %}

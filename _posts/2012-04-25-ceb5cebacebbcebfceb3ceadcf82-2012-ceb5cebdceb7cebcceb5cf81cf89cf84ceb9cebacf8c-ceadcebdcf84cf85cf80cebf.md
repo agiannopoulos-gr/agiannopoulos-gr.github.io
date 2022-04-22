@@ -11,6 +11,11 @@ switch_like_status:
 tags:
     - 'Εκλογές 2012'
 format: image
+gallery:
+  - url: "/wp-content/uploads/2012/04/teliko-giannopoulos_nea_dhmokratia_a4_diorth_a_opsh.jpg"
+    image_path: "/wp-content/uploads/2012/04/teliko-giannopoulos_nea_dhmokratia_a4_diorth_a_opsh-212x300.jpg"
+  - url: "/wp-content/uploads/2012/04/teliko-giannopoulos_nea_dhmokratia_a4_diorth_b_opsh.jpg"
+    image_path: "/wp-content/uploads/2012/04/teliko-giannopoulos_nea_dhmokratia_a4_diorth_b_opsh-212x300.jpg"
 ---
 
-<div class="gallery galleryid-1175 gallery-columns-2 gallery-size-medium" id="gallery-9"><figure class="gallery-item"><div class="gallery-icon portrait"> [![](/wp-content/uploads/2012/04/teliko-giannopoulos_nea_dhmokratia_a4_diorth_a_opsh-212x300.jpg)](/wp-content/uploads/2012/04/teliko-giannopoulos_nea_dhmokratia_a4_diorth_a_opsh.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon portrait"> [![](/wp-content/uploads/2012/04/teliko-giannopoulos_nea_dhmokratia_a4_diorth_b_opsh-212x300.jpg)](/wp-content/uploads/2012/04/teliko-giannopoulos_nea_dhmokratia_a4_diorth_b_opsh.jpg) </div></figure> </div>Μπορείτε να προβάλετε κάθε όψη του εντύπου σε ολόκληρη την οθόνη επιλέγοντας το αντίστοιχο εικονίδιο και στη συνέχεια να κατεβάσετε το αρχείο επιλέγοντας το σύνδεσμο permalink.
+{% include gallery %}

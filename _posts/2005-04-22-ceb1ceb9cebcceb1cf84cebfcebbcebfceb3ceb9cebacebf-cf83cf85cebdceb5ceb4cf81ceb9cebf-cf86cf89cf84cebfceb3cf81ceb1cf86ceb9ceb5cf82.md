@@ -11,6 +11,17 @@ switch_like_status:
 tags:
     - Φωτογραφίες
 format: image
+gallery:
+  - url: "/wp-content/uploads/2012/05/ceb913.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb913-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb905.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb905-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb902.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb902-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb910.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb910-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb911.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb911-150x150.jpg"
 ---
 
-<div class="gallery galleryid-2441 gallery-columns-3 gallery-size-thumbnail" id="gallery-2"><figure class="gallery-item"><div class="gallery-icon portrait"> [![](/wp-content/uploads/2012/05/ceb913-150x150.jpg)](/wp-content/uploads/2012/05/ceb913.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/ceb905-150x150.jpg)](/wp-content/uploads/2012/05/ceb905.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon portrait"> [![](/wp-content/uploads/2012/05/ceb902-150x150.jpg)](/wp-content/uploads/2012/05/ceb902.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/ceb910-150x150.jpg)](/wp-content/uploads/2012/05/ceb910.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/ceb911-150x150.jpg)](/wp-content/uploads/2012/05/ceb911.jpg) </div></figure> </div>
+{% include gallery %}

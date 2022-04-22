@@ -11,6 +11,19 @@ switch_like_status:
 tags:
     - Φωτογραφίες
 format: image
+gallery:
+  - url: "/wp-content/uploads/2012/05/ceb4cf83ceb401.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb4cf83ceb401-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb4cf83ceb403.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb4cf83ceb403-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb4cf83ceb407.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb4cf83ceb407-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb4cf83ceb413.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb4cf83ceb413-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb4cf83ceb416.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb4cf83ceb416-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/ceb4cf83ceb417.jpg"
+    image_path: "/wp-content/uploads/2012/05/ceb4cf83ceb417-150x150.jpg"
 ---
 
-<div class="gallery galleryid-2399 gallery-columns-3 gallery-size-thumbnail" id="gallery-3"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/ceb4cf83ceb401-150x150.jpg)](/wp-content/uploads/2012/05/ceb4cf83ceb401.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/ceb4cf83ceb403-150x150.jpg)](/wp-content/uploads/2012/05/ceb4cf83ceb403.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/ceb4cf83ceb407-150x150.jpg)](/wp-content/uploads/2012/05/ceb4cf83ceb407.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/ceb4cf83ceb413-150x150.jpg)](/wp-content/uploads/2012/05/ceb4cf83ceb413.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/ceb4cf83ceb416-150x150.jpg)](/wp-content/uploads/2012/05/ceb4cf83ceb416.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon portrait"> [![](/wp-content/uploads/2012/05/ceb4cf83ceb417-150x150.jpg)](/wp-content/uploads/2012/05/ceb4cf83ceb417.jpg) </div></figure> </div>
+{% include gallery %}

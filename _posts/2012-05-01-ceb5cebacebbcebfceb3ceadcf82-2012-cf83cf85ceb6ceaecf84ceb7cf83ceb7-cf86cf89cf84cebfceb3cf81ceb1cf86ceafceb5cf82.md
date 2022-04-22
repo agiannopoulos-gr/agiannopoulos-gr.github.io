@@ -12,6 +12,25 @@ tags:
     - 'Εκλογές 2012'
     - Φωτογραφίες
 format: image
+gallery:
+  - url: "/wp-content/uploads/2012/05/20120501-geo_1346-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-geo_1346-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/20120501-geo_1383-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-geo_1383-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/20120501-geo_1400-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-geo_1400-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/20120501-geo_1600.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-geo_1600-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/20120501-geo_1620.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-geo_1620-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/20120501-geo_1632-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-geo_1632-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/20120501-geo_1649-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-geo_1649-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/20120501-giannopoulos-oikogeneia-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-giannopoulos-oikogeneia-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/20120501-pattoulis-giannopoulos-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/20120501-pattoulis-giannopoulos-150x150.jpg"
 ---
 
-<div class="gallery galleryid-2466 gallery-columns-3 gallery-size-thumbnail" id="gallery-10"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/20120501-geo_1346-150x150.jpg)](/wp-content/uploads/2012/05/20120501-geo_1346-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/20120501-geo_1383-150x150.jpg)](/wp-content/uploads/2012/05/20120501-geo_1383-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/20120501-geo_1400-150x150.jpg)](/wp-content/uploads/2012/05/20120501-geo_1400-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/20120501-geo_1600-150x150.jpg)](/wp-content/uploads/2012/05/20120501-geo_1600.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon portrait"> [![](/wp-content/uploads/2012/05/20120501-geo_1620-150x150.jpg)](/wp-content/uploads/2012/05/20120501-geo_1620.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/20120501-geo_1632-150x150.jpg)](/wp-content/uploads/2012/05/20120501-geo_1632-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/20120501-geo_1649-150x150.jpg)](/wp-content/uploads/2012/05/20120501-geo_1649-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/20120501-giannopoulos-oikogeneia-150x150.jpg)](/wp-content/uploads/2012/05/20120501-giannopoulos-oikogeneia-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon portrait"> [![](/wp-content/uploads/2012/05/20120501-pattoulis-giannopoulos-150x150.jpg)](/wp-content/uploads/2012/05/20120501-pattoulis-giannopoulos-scaled.jpg) </div></figure> </div>
+{% include gallery %}

@@ -11,6 +11,15 @@ switch_like_status:
 tags:
     - Φωτογραφίες
 format: image
+gallery:
+  - url: "/wp-content/uploads/2012/05/dsc_4118-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/dsc_4118-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/dsc_4132-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/dsc_4132-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/dsc_4164-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/dsc_4164-150x150.jpg"
+  - url: "/wp-content/uploads/2012/05/dsc_4189-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/05/dsc_4189-150x150.jpg"
 ---
 
-<div class="gallery galleryid-2411 gallery-columns-2 gallery-size-thumbnail" id="gallery-5"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/dsc_4118-150x150.jpg)](/wp-content/uploads/2012/05/dsc_4118-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon portrait"> [![](/wp-content/uploads/2012/05/dsc_4132-150x150.jpg)](/wp-content/uploads/2012/05/dsc_4132-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/dsc_4164-150x150.jpg)](/wp-content/uploads/2012/05/dsc_4164-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/05/dsc_4189-150x150.jpg)](/wp-content/uploads/2012/05/dsc_4189-scaled.jpg) </div></figure> </div>
+{% include gallery %}

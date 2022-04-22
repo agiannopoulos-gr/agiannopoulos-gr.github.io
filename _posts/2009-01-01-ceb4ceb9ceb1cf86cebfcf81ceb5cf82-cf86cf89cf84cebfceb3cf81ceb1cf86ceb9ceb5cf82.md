@@ -11,6 +11,15 @@ switch_like_status:
 tags:
     - Φωτογραφίες
 format: image
+gallery:
+  - url: "/wp-content/uploads/2012/04/dsc_3260.jpg"
+    image_path: "/wp-content/uploads/2012/04/dsc_3260-150x150.jpg"
+  - url: "/wp-content/uploads/2012/04/dsc_5655-7.jpg"
+    image_path: "/wp-content/uploads/2012/04/dsc_5655-7-150x150.jpg"
+  - url: "/wp-content/uploads/2012/04/l1060577-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/04/l1060577-150x150.jpg"
+  - url: "/wp-content/uploads/2012/04/tsp_6503-scaled.jpg"
+    image_path: "/wp-content/uploads/2012/04/tsp_6503-150x150.jpg"
 ---
 
-<div class="gallery galleryid-1135 gallery-columns-2 gallery-size-thumbnail" id="gallery-7"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/04/dsc_3260-150x150.jpg)](/wp-content/uploads/2012/04/dsc_3260.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/04/dsc_5655-7-150x150.jpg)](/wp-content/uploads/2012/04/dsc_5655-7.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/04/l1060577-150x150.jpg)](/wp-content/uploads/2012/04/l1060577-scaled.jpg) </div></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](/wp-content/uploads/2012/04/tsp_6503-150x150.jpg)](/wp-content/uploads/2012/04/tsp_6503-scaled.jpg) </div></figure> </div>
+{% include gallery %}
