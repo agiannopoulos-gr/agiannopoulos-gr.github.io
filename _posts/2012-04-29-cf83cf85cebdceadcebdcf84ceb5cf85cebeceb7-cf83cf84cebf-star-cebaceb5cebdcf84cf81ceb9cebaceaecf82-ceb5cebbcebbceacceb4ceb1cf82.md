@@ -14,6 +14,8 @@ tags:
     - 'Τοπικός Τύπος'
 ---
 
-\[gigya src=”http://www.dailymotion.com/swf/video/xqh3n5?hideInfos=1″ width=”560″ height=”420″ allowFullScreen=”true” allowScriptAccess=”always” quality=”high”\]
+  <div class="responsive-video-container" style="padding-bottom: 75%;">
+    <iframe src="//www.dailymotion.com/embed/video/xqh3n5" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
 
 Πηγή: <http://lamiastereanews.blogspot.com/2012/04/star.html>

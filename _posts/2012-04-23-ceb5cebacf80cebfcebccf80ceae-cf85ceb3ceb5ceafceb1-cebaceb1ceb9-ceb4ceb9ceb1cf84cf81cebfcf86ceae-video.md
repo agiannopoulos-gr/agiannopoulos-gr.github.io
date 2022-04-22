@@ -13,4 +13,4 @@ tags:
     - Συνεντεύξεις
 ---
 
-\[youtube=http://www.youtube-nocookie.com/embed/videoseries?list=PLNhcuZ1q9VIRQjMuW7D1obe\_Jfziwd-RO\]
+{% include video id="videoseries?list=PLNhcuZ1q9VIRQjMuW7D1obe_Jfziwd-RO" provider="youtube" %}

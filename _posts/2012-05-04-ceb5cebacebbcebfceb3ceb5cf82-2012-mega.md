@@ -13,6 +13,4 @@ tags:
     - Συνεντεύξεις
 ---
 
-\[gigya src=”http://www.megatv.com/ekloges2012/flash/jw/flvplayer.swf?config=http%3A%2F%2Fwww.megatv.com%2Fekloges2012%2FXML%2Fjw%2Fconfig.asp%3Fcatid%3D27274%26pubid%3D29302828%26depth%3D%2D1%26attributes%3D0%26width%3D640%26height%3D360″ width=”640″ height=”360″ allowFullScreen=”true” allowScriptAccess=”always” quality=”high”\]
-
-Πηγή: [MEGA Web TV](http://www.megatv.com/ekloges2012/default.asp?catid=27274&subid=2&pubid=29302828)
+Πηγή: [MEGA Web TV](//www.megatv.com/ekloges2012/default.asp?catid=27274&subid=2&pubid=29302828)

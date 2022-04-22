@@ -15,6 +15,6 @@ tags:
 
 Εκπομπή [Πρωινή Ενημέρωση](http://tvradio.ert.gr/details.asp?pid=3364149&chid=9) στη ΝΕΤ, **Τρίτη 1/5/2012 7:30**.
 
-\[youtube=http://www.youtube-nocookie.com/watch?v=AH-iB7L926M&amp;rel=0\]
+{% include video id="AH-iB7L926M" provider="youtube" %}
 
 Πηγή: [ΕΡΤ WebTv](http://www.ert.gr/webtv/index.php/component/k2/item/3742-giannopoulos-ananiadis-kolokouris-01-05-2012.html)

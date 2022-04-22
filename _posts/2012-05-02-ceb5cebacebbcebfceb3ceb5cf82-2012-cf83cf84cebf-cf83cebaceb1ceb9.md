@@ -15,6 +15,4 @@ tags:
     - Συνεντεύξεις
 ---
 
-\[gigya src=”http://www.skai.gr/Themes/1/Default/Media/Media\_player/flowplayer-3.2.7.swf” width=”588″ height=”330″ allowFullScreen=”true” allowScriptAccess=”always” quality=”high” cachebusting=”true” bgcolor=”#000000″ flashvars=”config=%7B%22plugins%22%3A%7B%22rtmp%22%3A%7B%22url%22%3A%22http%3A%2F%2Fwww.skai.gr%2FThemes%2F1%2FDefault%2FMedia%2FMedia\_player%2Fflowplayer.rtmp-3.2.3.swf%22%7D%2C%22akamai%22%3A%7B%22url%22%3A%22http%3A%2F%2Fwww.skai.gr%2FThemes%2F1%2FDefault%2FMedia%2FMedia\_player%2Fflowplayer.akamai-3.2.0.swf%22%7D%7D%2C%22clip%22%3A%7B%7D%2C%22playlist%22%3A%5B%7B%22url%22%3A%22http%3A%2F%2Fwww.skai.gr%2Ffiles%2Ftemp%2F120642EB51BD22B0B534096C31824A50.jpg%22%2C%22scaling%22%3A%22orig%22%7D%2C%7B%22url%22%3A%22rtmp%3A%2F%2Fcp67754.edgefcs.net%2Fondemand%2Fmp4%3Acontent%2F201205%2Fvideo%2Fdiakommatiki20120502.mp4%22%2C%22provider%22%3A%22rtmp%22%2C%22autoPlay%22%3Afalse%7D%5D%7D”\]
-
-Πηγή: <http://www.skai.gr/player/TV/?MMID=227928>
+Πηγή: [http://www.skai.gr/player/TV/?MMID=227928](//web.archive.org/web/http://www.skai.gr/player/TV/?MMID=227928)
