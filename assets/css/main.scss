@@ -7,6 +7,9 @@
 @import "minimal-mistakes"; // main partials
 
 
+.text-underline {
+    text-decoration: underline;
+}
 .site-logo img {
     border-radius: $border-radius;
 }
