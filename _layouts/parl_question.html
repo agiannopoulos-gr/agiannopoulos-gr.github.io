@@ -1,0 +1,25 @@
+---
+layout: post
+---
+{%- assign suppress_header = page.parl_question.suppress_header | default: false -%}
+{%- assign page_date = page.date | date: "%d/%m/%Y" -%}
+{%- assign q_date = page.parl_question.date | default: page_date -%}
+{%- assign q_deposition_date = page.parl_question.deposition_date | default: page_date -%}
+
+{%- if page.parl_question.protocol_number -%}
+{%- capture parl_question_part %}{% include parl_question.md part="protocol_number" q_proto_num=page.parl_question.protocol_number q_depo_date=q_deposition_date %}{% endcapture -%}
+{{ parl_question_part | markdownify }}
+{%- endif -%}
+
+{%- unless suppress_header -%}
+{%- capture parl_question_part %}{% include parl_question.md part="header" q_header_email=page.parl_question.header_email %}{% endcapture -%}
+{{ parl_question_part | markdownify }}
+{%- endunless -%}
+
+{%- capture parl_question_part %}{% include parl_question.md part="preamble" q_format=page.parl_question.type q_to=page.parl_question.to align_preamble=page.parl_question.align_preamble %}{% endcapture -%}
+{{ parl_question_part | markdownify }}
+
+{{ content }}
+
+{%- capture parl_question_part %}{% include parl_question.md part="closing" q_date=q_date align_closing=page.parl_question.align_closing %}{% endcapture -%}
+{{ parl_question_part | markdownify }}
