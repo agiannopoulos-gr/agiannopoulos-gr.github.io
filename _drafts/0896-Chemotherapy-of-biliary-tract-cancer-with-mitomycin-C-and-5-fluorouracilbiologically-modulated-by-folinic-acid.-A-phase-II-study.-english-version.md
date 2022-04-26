@@ -14,13 +14,13 @@ tags:
 
 1: Ann Oncol. 1996 Aug;7(6):644-5.
 
-<div style="text-align:justify;"></div>Chemotherapy of biliary tract cancer with mitomycin-C and 5-fluorouracil biologically modulated by folinic acid. A phase II study.
+Chemotherapy of biliary tract cancer with mitomycin-C and 5-fluorouracil biologically modulated by folinic acid. A phase II study.
 
-<div style="text-align:justify;"></div>Polyzos A, Nikou G, Giannopoulos A, Toskas A, Kalahanis N, Papargyriou J, Michail P, Papachristodoulou A.
+Polyzos A, Nikou G, Giannopoulos A, Toskas A, Kalahanis N, Papargyriou J, Michail P, Papachristodoulou A.
 
-<div style="text-align:justify;"></div>Publication Types:  
+Publication Types:  
  Clinical Trial  
  Clinical Trial, Phase II  
  Letter
 
-<div style="text-align:justify;"></div>PMID: 8879384 \[PubMed – indexed for MEDLINE\]
+PMID: 8879384 \[PubMed – indexed for MEDLINE\]
