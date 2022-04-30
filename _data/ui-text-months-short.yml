@@ -1,0 +1,37 @@
+en: &DEFAULT_EN
+  Jan: Jan
+  Feb: Feb
+  Mar: Mar
+  Apr: Apr
+  May: May
+  Jun: Jun
+  Jul: Jul
+  Aug: Aug
+  Sep: Sep
+  Oct: Oct
+  Nov: Nov
+  Dec: Dec
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+el: &DEFAULT_EL
+  Jan: "Ιαν"
+  Feb: "Φεβ"
+  Mar: "Μαρ"
+  Apr: "Απρ"
+  May: "Μαΐ"
+  Jun: "Ιουν"
+  Jul: "Ιουλ"
+  Aug: "Αυγ"
+  Sep: "Σεπ"
+  Oct: "Οκτ"
+  Nov: "Νοε"
+  Dec: "Δεκ"
+el_GR:
+  <<: *DEFAULT_EL

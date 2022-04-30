@@ -109,6 +109,8 @@ minimal_mistakes_skin: air
 
 head_scripts:
   - /assets/js/email-protector.js
+after_footer_scripts:
+  - /assets/js/localize-date-format.js
 
 title_separator: "|"
 
