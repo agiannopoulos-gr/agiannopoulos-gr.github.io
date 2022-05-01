@@ -13,8 +13,8 @@ tags:
     - Συνεντεύξεις
 ---
 
-Εκπομπή [Πρωινή Ενημέρωση](http://tvradio.ert.gr/details.asp?pid=3364149&chid=9) στη ΝΕΤ, **Τρίτη 1/5/2012 7:30**.
+Εκπομπή [Πρωινή Ενημέρωση](//web.archive.org/web/http://tvradio.ert.gr/details.asp?pid=3364149&chid=9) στη ΝΕΤ, **Τρίτη 1/5/2012 7:30**.
 
 {% include video id="AH-iB7L926M" provider="youtube" %}
 
-Πηγή: [ΕΡΤ WebTv](http://www.ert.gr/webtv/index.php/component/k2/item/3742-giannopoulos-ananiadis-kolokouris-01-05-2012.html)
+Πηγή: [ΕΡΤ WebTv](http://www.ert.gr/webtv/index.php/component/k2/item/3742-giannopoulos-ananiadis-kolokouris-01-05-2012.html)<!-- markdown-link-check-disable-line -->

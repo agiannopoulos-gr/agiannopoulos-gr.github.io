@@ -18,4 +18,4 @@ tags:
     <iframe src="//www.dailymotion.com/embed/video/xqh3n5" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
   </div>
 
-Πηγή: <http://lamiastereanews.blogspot.com/2012/04/star.html>
+Πηγή: [http://lamiastereanews.blogspot.com/2012/04/star.html](//web.archive.org/web/20130726203350/http://lamiastereanews.blogspot.com/2012/04/star.html)
